@@ -1,0 +1,9 @@
+Validation,Count
+Device Null Values,325
+Device Duplicate Machine IDs,0
+Invalid Device Types,1
+Invalid Serial Numbers,0
+Audit Null Values,22
+Audit Duplicate IDs,0
+Invalid Status,0
+Negative Amount,0

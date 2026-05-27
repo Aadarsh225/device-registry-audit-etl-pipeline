@@ -1,0 +1,15 @@
+Metric,Value
+Total Transactions,100.0
+Total Amount,163333.08
+Average Amount,1633.3308
+Max Amount,4650.95
+Min Amount,0.0
+Success Transactions,50.0
+Failed Transactions,20.0
+Pending Transactions,20.0
+Fired Transactions,10.0
+Active Devices,0.0
+Inactive Devices,0.0
+Duplicate Machine Identifier,0.0
+Duplicate Audit IDs,0.0
+Total Null Values,347.0

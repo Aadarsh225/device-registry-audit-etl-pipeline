@@ -1,0 +1,101 @@
+_id,status,amount,scheme,machine_identifier,device,created_at
+AUD001,SUCCESS,1200.5,gpay,MID-001,"{'prefix': 'IPNT', 'serial_number': '42001', 'model': 'ET389Pro A10', 'type': 'dynamic', 'service_type': 'PAYMENT'}",2026-08-01 10:00:00+00:00
+AUD002,PENDING,850.75,phonepe,MID-002,"{'prefix': 'MD', 'serial_number': '42002', 'model': 'ET390Lite', 'type': 'static', 'service_type': 'NOTIFY'}",2026-08-01 11:00:00+00:00
+AUD003,FAILED,400.25,paytm,MID-003,"{'prefix': 'IPNT', 'serial_number': '42003', 'model': 'ET389', 'type': 'dynamic', 'service_type': 'PAYMENT'}",2026-08-01 12:00:00+00:00
+AUD004,SUCCESS,2200.99,bhim,MID-004,"{'prefix': 'IPNT', 'serial_number': '42004', 'model': 'ET500', 'type': 'static', 'service_type': 'NOTIFY'}",
+AUD005,FIRED,1048.4,fonepay,MID-005,"{'prefix': 'IPNT', 'serial_number': None, 'model': 'ET389Pro A10', 'type': 'dynamic', 'service_type': 'PAYMENT'}",2026-08-01 14:00:00+00:00
+AUD006,SUCCESS,0.0,gpay,MID-006,"{'prefix': 'MD', 'serial_number': '42006', 'model': 'ET390Lite', 'type': 'static', 'service_type': 'PAYMENT'}",2026-08-01 15:00:00+00:00
+AUD007,SUCCESS,1800.8,phonepe,MID-007,"{'prefix': 'IPNT', 'serial_number': '42007', 'model': 'ET700', 'type': 'dynamic', 'service_type': 'PAYMENT'}",
+AUD008,FAILED,920.45,paytm,MID-008,"{'prefix': 'MD', 'serial_number': '42008', 'model': 'ET389', 'type': 'static', 'service_type': 'NOTIFY'}",2026-08-01 17:00:00+00:00
+AUD009,PENDING,760.9,bhim,MID-009,"{'prefix': 'IPNT', 'serial_number': '42009', 'model': None, 'type': 'dynamic', 'service_type': 'PAYMENT'}",2026-08-01 18:00:00+00:00
+AUD010,SUCCESS,1500.1,gpay,MID-010,"{'prefix': 'MD', 'serial_number': '42010', 'model': 'ET390Lite', 'type': 'static', 'service_type': 'PAYMENT'}",2026-08-01 19:00:00+00:00
+AUD011,SUCCESS,2100.5,gpay,MID-011,"{'prefix': 'IPNT', 'serial_number': '42011', 'model': 'ET389Pro', 'type': 'dynamic', 'service_type': 'PAYMENT'}",2026-08-02 10:00:00+00:00
+AUD012,PENDING,980.75,phonepe,MID-012,"{'prefix': 'MD', 'serial_number': '42012', 'model': 'ET500', 'type': 'static', 'service_type': 'NOTIFY'}",2026-08-02 11:00:00+00:00
+AUD013,FAILED,450.3,paytm,MID-013,"{'prefix': 'IPNT', 'serial_number': '42013', 'model': 'ET389', 'type': 'dynamic', 'service_type': 'PAYMENT'}",2026-08-02 12:00:00+00:00
+AUD014,SUCCESS,3200.2,bhim,MID-014,"{'prefix': 'MD', 'serial_number': '42014', 'model': 'ET700', 'type': 'static', 'service_type': 'NOTIFY'}",
+AUD015,FIRED,1111.99,fonepay,MID-015,"{'prefix': 'IPNT', 'serial_number': None, 'model': 'ET389Pro', 'type': 'dynamic', 'service_type': 'PAYMENT'}",2026-08-02 14:00:00+00:00
+AUD016,SUCCESS,0.0,gpay,MID-016,"{'prefix': 'MD', 'serial_number': '42016', 'model': 'ET390Lite', 'type': 'static', 'service_type': 'PAYMENT'}",2026-08-02 15:00:00+00:00
+AUD017,SUCCESS,1999.95,phonepe,MID-017,"{'prefix': 'IPNT', 'serial_number': '42017', 'model': 'ET389', 'type': 'dynamic', 'service_type': 'PAYMENT'}",
+AUD018,FAILED,875.25,paytm,MID-018,"{'prefix': 'MD', 'serial_number': '42018', 'model': 'ET700', 'type': 'static', 'service_type': 'NOTIFY'}",2026-08-02 17:00:00+00:00
+AUD019,PENDING,760.4,bhim,MID-019,"{'prefix': 'IPNT', 'serial_number': '42019', 'model': None, 'type': 'dynamic', 'service_type': 'PAYMENT'}",2026-08-02 18:00:00+00:00
+AUD020,SUCCESS,1750.1,gpay,MID-020,"{'prefix': 'MD', 'serial_number': '42020', 'model': 'ET390Lite', 'type': 'static', 'service_type': 'PAYMENT'}",2026-08-02 19:00:00+00:00
+AUD021,SUCCESS,2450.6,gpay,MID-021,"{'prefix': 'IPNT', 'serial_number': '42021', 'model': 'ET389Pro', 'type': 'dynamic', 'service_type': 'PAYMENT'}",2026-08-03 10:00:00+00:00
+AUD022,PENDING,990.8,phonepe,MID-022,"{'prefix': 'MD', 'serial_number': '42022', 'model': 'ET390Lite', 'type': 'static', 'service_type': 'NOTIFY'}",2026-08-03 11:00:00+00:00
+AUD023,FAILED,520.35,paytm,MID-023,"{'prefix': 'IPNT', 'serial_number': '42023', 'model': 'ET500', 'type': 'dynamic', 'service_type': 'PAYMENT'}",2026-08-03 12:00:00+00:00
+AUD024,SUCCESS,3400.45,bhim,MID-024,"{'prefix': 'MD', 'serial_number': '42024', 'model': 'ET700', 'type': 'static', 'service_type': 'NOTIFY'}",
+AUD025,FIRED,1250.9,fonepay,MID-025,"{'prefix': 'IPNT', 'serial_number': None, 'model': 'ET389Pro', 'type': 'dynamic', 'service_type': 'PAYMENT'}",2026-08-03 14:00:00+00:00
+AUD026,SUCCESS,0.0,gpay,MID-026,"{'prefix': 'MD', 'serial_number': '42026', 'model': 'ET390Lite', 'type': 'static', 'service_type': 'PAYMENT'}",2026-08-03 15:00:00+00:00
+AUD027,SUCCESS,2125.55,phonepe,MID-027,"{'prefix': 'IPNT', 'serial_number': '42027', 'model': 'ET389', 'type': 'dynamic', 'service_type': 'PAYMENT'}",
+AUD028,FAILED,930.4,paytm,MID-028,"{'prefix': 'MD', 'serial_number': '42028', 'model': 'ET700', 'type': 'static', 'service_type': 'NOTIFY'}",2026-08-03 17:00:00+00:00
+AUD029,PENDING,810.25,bhim,MID-029,"{'prefix': 'IPNT', 'serial_number': '42029', 'model': None, 'type': 'dynamic', 'service_type': 'PAYMENT'}",2026-08-03 18:00:00+00:00
+AUD030,SUCCESS,1825.75,gpay,MID-030,"{'prefix': 'MD', 'serial_number': '42030', 'model': 'ET390Lite', 'type': 'static', 'service_type': 'PAYMENT'}",2026-08-03 19:00:00+00:00
+AUD031,SUCCESS,2550.65,gpay,MID-031,"{'prefix': 'IPNT', 'serial_number': '42031', 'model': 'ET389Pro', 'type': 'dynamic', 'service_type': 'PAYMENT'}",2026-08-04 10:00:00+00:00
+AUD032,PENDING,1050.2,phonepe,MID-032,"{'prefix': 'MD', 'serial_number': '42032', 'model': 'ET390Lite', 'type': 'static', 'service_type': 'NOTIFY'}",2026-08-04 11:00:00+00:00
+AUD033,FAILED,610.9,paytm,MID-033,"{'prefix': 'IPNT', 'serial_number': '42033', 'model': 'ET389', 'type': 'dynamic', 'service_type': 'PAYMENT'}",2026-08-04 12:00:00+00:00
+AUD034,SUCCESS,3600.5,bhim,MID-034,"{'prefix': 'MD', 'serial_number': '42034', 'model': 'ET500', 'type': 'static', 'service_type': 'NOTIFY'}",
+AUD035,FIRED,1325.1,fonepay,MID-035,"{'prefix': 'IPNT', 'serial_number': None, 'model': 'ET389Pro', 'type': 'dynamic', 'service_type': 'PAYMENT'}",2026-08-04 14:00:00+00:00
+AUD036,SUCCESS,0.0,gpay,MID-036,"{'prefix': 'MD', 'serial_number': '42036', 'model': 'ET390Lite', 'type': 'static', 'service_type': 'PAYMENT'}",2026-08-04 15:00:00+00:00
+AUD037,SUCCESS,2200.35,phonepe,MID-037,"{'prefix': 'IPNT', 'serial_number': '42037', 'model': 'ET700', 'type': 'dynamic', 'service_type': 'PAYMENT'}",
+AUD038,FAILED,980.8,paytm,MID-038,"{'prefix': 'MD', 'serial_number': '42038', 'model': 'ET500', 'type': 'static', 'service_type': 'NOTIFY'}",2026-08-04 17:00:00+00:00
+AUD039,PENDING,920.7,bhim,MID-039,"{'prefix': 'IPNT', 'serial_number': '42039', 'model': None, 'type': 'dynamic', 'service_type': 'PAYMENT'}",2026-08-04 18:00:00+00:00
+AUD040,SUCCESS,1990.95,gpay,MID-040,"{'prefix': 'MD', 'serial_number': '42040', 'model': 'ET390Lite', 'type': 'static', 'service_type': 'PAYMENT'}",2026-08-04 19:00:00+00:00
+AUD041,SUCCESS,2650.45,gpay,MID-041,"{'prefix': 'IPNT', 'serial_number': '42041', 'model': 'ET389Pro', 'type': 'dynamic', 'service_type': 'PAYMENT'}",2026-08-05 10:00:00+00:00
+AUD042,PENDING,1120.55,phonepe,MID-042,"{'prefix': 'MD', 'serial_number': '42042', 'model': 'ET390Lite', 'type': 'static', 'service_type': 'NOTIFY'}",2026-08-05 11:00:00+00:00
+AUD043,FAILED,710.35,paytm,MID-043,"{'prefix': 'IPNT', 'serial_number': '42043', 'model': 'ET389', 'type': 'dynamic', 'service_type': 'PAYMENT'}",2026-08-05 12:00:00+00:00
+AUD044,SUCCESS,3820.9,bhim,MID-044,"{'prefix': 'MD', 'serial_number': '42044', 'model': 'ET700', 'type': 'static', 'service_type': 'NOTIFY'}",
+AUD045,FIRED,1425.65,fonepay,MID-045,"{'prefix': 'IPNT', 'serial_number': None, 'model': 'ET389Pro', 'type': 'dynamic', 'service_type': 'PAYMENT'}",2026-08-05 14:00:00+00:00
+AUD046,SUCCESS,0.0,gpay,MID-046,"{'prefix': 'MD', 'serial_number': '42046', 'model': 'ET390Lite', 'type': 'static', 'service_type': 'PAYMENT'}",2026-08-05 15:00:00+00:00
+AUD047,SUCCESS,2350.25,phonepe,MID-047,"{'prefix': 'IPNT', 'serial_number': '42047', 'model': 'ET700', 'type': 'dynamic', 'service_type': 'PAYMENT'}",
+AUD048,FAILED,1020.1,paytm,MID-048,"{'prefix': 'MD', 'serial_number': '42048', 'model': 'ET500', 'type': 'static', 'service_type': 'NOTIFY'}",2026-08-05 17:00:00+00:00
+AUD049,PENDING,980.8,bhim,MID-049,"{'prefix': 'IPNT', 'serial_number': '42049', 'model': None, 'type': 'dynamic', 'service_type': 'PAYMENT'}",2026-08-05 18:00:00+00:00
+AUD050,SUCCESS,2100.95,gpay,MID-050,"{'prefix': 'MD', 'serial_number': '42050', 'model': 'ET390Lite', 'type': 'static', 'service_type': 'PAYMENT'}",2026-08-05 19:00:00+00:00
+AUD051,SUCCESS,2750.15,gpay,MID-051,"{'prefix': 'IPNT', 'serial_number': '42051', 'model': 'ET389Pro', 'type': 'dynamic', 'service_type': 'PAYMENT'}",2026-08-06 10:00:00+00:00
+AUD052,PENDING,1180.35,phonepe,MID-052,"{'prefix': 'MD', 'serial_number': '42052', 'model': 'ET390Lite', 'type': 'static', 'service_type': 'NOTIFY'}",2026-08-06 11:00:00+00:00
+AUD053,FAILED,760.45,paytm,MID-053,"{'prefix': 'IPNT', 'serial_number': '42053', 'model': 'ET389', 'type': 'dynamic', 'service_type': 'PAYMENT'}",2026-08-06 12:00:00+00:00
+AUD054,SUCCESS,3950.85,bhim,MID-054,"{'prefix': 'MD', 'serial_number': '42054', 'model': 'ET700', 'type': 'static', 'service_type': 'NOTIFY'}",
+AUD055,FIRED,1510.6,fonepay,MID-055,"{'prefix': 'IPNT', 'serial_number': None, 'model': 'ET389Pro', 'type': 'dynamic', 'service_type': 'PAYMENT'}",2026-08-06 14:00:00+00:00
+AUD056,SUCCESS,0.0,gpay,MID-056,"{'prefix': 'MD', 'serial_number': '42056', 'model': 'ET390Lite', 'type': 'static', 'service_type': 'PAYMENT'}",2026-08-06 15:00:00+00:00
+AUD057,SUCCESS,2420.95,phonepe,MID-057,"{'prefix': 'IPNT', 'serial_number': '42057', 'model': 'ET700', 'type': 'dynamic', 'service_type': 'PAYMENT'}",
+AUD058,FAILED,1080.75,paytm,MID-058,"{'prefix': 'MD', 'serial_number': '42058', 'model': 'ET500', 'type': 'static', 'service_type': 'NOTIFY'}",2026-08-06 17:00:00+00:00
+AUD059,PENDING,1025.4,bhim,MID-059,"{'prefix': 'IPNT', 'serial_number': '42059', 'model': None, 'type': 'dynamic', 'service_type': 'PAYMENT'}",2026-08-06 18:00:00+00:00
+AUD060,SUCCESS,2250.55,gpay,MID-060,"{'prefix': 'MD', 'serial_number': '42060', 'model': 'ET390Lite', 'type': 'static', 'service_type': 'PAYMENT'}",2026-08-06 19:00:00+00:00
+AUD061,SUCCESS,2850.35,gpay,MID-061,"{'prefix': 'IPNT', 'serial_number': '42061', 'model': 'ET700', 'type': 'unknown-device', 'service_type': 'PAYMENT'}",
+AUD062,PENDING,1250.6,phonepe,MID-062,"{'prefix': 'MD', 'serial_number': '42062', 'model': 'ET389Pro', 'type': 'dynamic', 'service_type': 'NOTIFY'}",2026-08-07 11:00:00+00:00
+AUD063,FAILED,810.4,paytm,MID-063,"{'prefix': '', 'serial_number': '42063', 'model': 'ET500', 'type': 'static', 'service_type': 'PAYMENT'}",2010-01-01 00:00:00+00:00
+AUD064,SUCCESS,4050.2,bhim,MID-064,"{'prefix': 'IPNT', 'serial_number': '42064', 'model': None, 'type': 'dynamic', 'service_type': 'NOTIFY'}",
+AUD065,FIRED,1620.75,fonepay,MID-065,"{'prefix': 'MD', 'serial_number': None, 'model': 'ET390Lite', 'type': 'static', 'service_type': 'PAYMENT'}",2026-08-07 14:00:00+00:00
+AUD066,SUCCESS,0.0,gpay,MID-066,"{'prefix': 'IPNT', 'serial_number': '42066', 'model': 'ET700', 'type': 'dynamic', 'service_type': 'PAYMENT'}",2026-08-07 15:00:00+00:00
+AUD067,SUCCESS,2550.9,phonepe,MID-067,"{'prefix': 'MD', 'serial_number': '42067', 'model': 'ET389', 'type': 'static', 'service_type': 'PAYMENT'}",
+AUD068,FAILED,1125.45,paytm,MID-068,"{'prefix': 'IPNT', 'serial_number': '42068', 'model': 'ET500', 'type': 'dynamic', 'service_type': 'NOTIFY'}",
+AUD069,PENDING,1180.55,bhim,MID-069,"{'prefix': 'MD', 'serial_number': '42069', 'model': 'ET389Pro', 'type': 'static', 'service_type': 'PAYMENT'}",2026-08-07 18:00:00+00:00
+AUD070,SUCCESS,2350.95,gpay,MID-070,"{'prefix': '', 'serial_number': '42070', 'model': 'ET700', 'type': 'unknown', 'service_type': 'PAYMENT'}",2012-01-01 00:00:00+00:00
+AUD071,SUCCESS,2950.75,gpay,MID-071,"{'prefix': 'IPNT', 'serial_number': '42071', 'model': 'ET389Pro', 'type': 'dynamic', 'service_type': 'PAYMENT'}",2026-08-08 10:00:00+00:00
+AUD072,PENDING,1320.45,phonepe,MID-072,"{'prefix': 'MD', 'serial_number': '42072', 'model': 'ET390Lite', 'type': 'static', 'service_type': 'NOTIFY'}",2026-08-08 11:00:00+00:00
+AUD073,FAILED,920.15,paytm,MID-073,"{'prefix': 'IPNT', 'serial_number': '42073', 'model': 'ET389', 'type': 'dynamic', 'service_type': 'PAYMENT'}",2026-08-08 12:00:00+00:00
+AUD074,SUCCESS,4250.95,bhim,MID-074,"{'prefix': 'MD', 'serial_number': '42074', 'model': 'ET500', 'type': 'static', 'service_type': 'NOTIFY'}",
+AUD075,FIRED,1725.5,fonepay,MID-075,"{'prefix': 'IPNT', 'serial_number': None, 'model': 'ET389Pro', 'type': 'dynamic', 'service_type': 'PAYMENT'}",2026-08-08 14:00:00+00:00
+AUD076,SUCCESS,0.0,gpay,MID-076,"{'prefix': 'MD', 'serial_number': '42076', 'model': 'ET390Lite', 'type': 'static', 'service_type': 'PAYMENT'}",2026-08-08 15:00:00+00:00
+AUD077,SUCCESS,2680.25,phonepe,MID-077,"{'prefix': 'IPNT', 'serial_number': '42077', 'model': 'ET700', 'type': 'dynamic', 'service_type': 'PAYMENT'}",
+AUD078,FAILED,1210.4,paytm,MID-078,"{'prefix': 'MD', 'serial_number': '42078', 'model': 'ET500', 'type': 'static', 'service_type': 'NOTIFY'}",2026-08-08 17:00:00+00:00
+AUD079,PENDING,1260.85,bhim,MID-079,"{'prefix': 'IPNT', 'serial_number': '42079', 'model': None, 'type': 'dynamic', 'service_type': 'PAYMENT'}",2026-08-08 18:00:00+00:00
+AUD080,SUCCESS,2450.65,gpay,MID-080,"{'prefix': 'MD', 'serial_number': '42080', 'model': 'ET390Lite', 'type': 'static', 'service_type': 'PAYMENT'}",2026-08-08 19:00:00+00:00
+AUD081,SUCCESS,3050.95,gpay,MID-081,"{'prefix': 'IPNT', 'serial_number': '42081', 'model': 'ET389Pro', 'type': 'dynamic', 'service_type': 'PAYMENT'}",2026-08-09 10:00:00+00:00
+AUD082,PENDING,1380.2,phonepe,MID-082,"{'prefix': 'MD', 'serial_number': '42082', 'model': 'ET390Lite', 'type': 'static', 'service_type': 'NOTIFY'}",2026-08-09 11:00:00+00:00
+AUD083,FAILED,980.55,paytm,MID-083,"{'prefix': 'IPNT', 'serial_number': '42083', 'model': 'ET389', 'type': 'dynamic', 'service_type': 'PAYMENT'}",2026-08-09 12:00:00+00:00
+AUD084,SUCCESS,4450.35,bhim,MID-084,"{'prefix': 'MD', 'serial_number': '42084', 'model': 'ET500', 'type': 'static', 'service_type': 'NOTIFY'}",
+AUD085,FIRED,1820.4,fonepay,MID-085,"{'prefix': 'IPNT', 'serial_number': None, 'model': 'ET389Pro', 'type': 'dynamic', 'service_type': 'PAYMENT'}",2026-08-09 14:00:00+00:00
+AUD086,SUCCESS,0.0,gpay,MID-086,"{'prefix': 'MD', 'serial_number': '42086', 'model': 'ET390Lite', 'type': 'static', 'service_type': 'PAYMENT'}",2026-08-09 15:00:00+00:00
+AUD087,SUCCESS,2780.8,phonepe,MID-087,"{'prefix': 'IPNT', 'serial_number': '42087', 'model': 'ET700', 'type': 'dynamic', 'service_type': 'PAYMENT'}",
+AUD088,FAILED,1290.65,paytm,MID-088,"{'prefix': 'MD', 'serial_number': '42088', 'model': 'ET500', 'type': 'static', 'service_type': 'NOTIFY'}",2026-08-09 17:00:00+00:00
+AUD089,PENDING,1350.45,bhim,MID-089,"{'prefix': 'IPNT', 'serial_number': '42089', 'model': None, 'type': 'dynamic', 'service_type': 'PAYMENT'}",2026-08-09 18:00:00+00:00
+AUD090,SUCCESS,2550.25,gpay,MID-090,"{'prefix': 'MD', 'serial_number': '42090', 'model': 'ET390Lite', 'type': 'static', 'service_type': 'PAYMENT'}",2026-08-09 19:00:00+00:00
+AUD091,SUCCESS,3150.55,gpay,MID-091,"{'prefix': 'IPNT', 'serial_number': '42091', 'model': 'ET389Pro', 'type': 'dynamic', 'service_type': 'PAYMENT'}",2026-08-10 10:00:00+00:00
+AUD092,PENDING,1450.3,phonepe,MID-092,"{'prefix': 'MD', 'serial_number': '42092', 'model': 'ET390Lite', 'type': 'static', 'service_type': 'NOTIFY'}",2026-08-10 11:00:00+00:00
+AUD093,FAILED,1050.75,paytm,MID-093,"{'prefix': 'IPNT', 'serial_number': '42093', 'model': 'ET389', 'type': 'dynamic', 'service_type': 'PAYMENT'}",2026-08-10 12:00:00+00:00
+AUD094,SUCCESS,4650.95,bhim,MID-094,"{'prefix': 'MD', 'serial_number': '42094', 'model': 'ET500', 'type': 'static', 'service_type': 'NOTIFY'}",
+AUD095,FIRED,1925.6,fonepay,MID-095,"{'prefix': 'IPNT', 'serial_number': None, 'model': 'ET389Pro', 'type': 'dynamic', 'service_type': 'PAYMENT'}",2026-08-10 14:00:00+00:00
+AUD096,SUCCESS,0.0,gpay,MID-096,"{'prefix': 'MD', 'serial_number': '42096', 'model': 'ET390Lite', 'type': 'static', 'service_type': 'PAYMENT'}",2026-08-10 15:00:00+00:00
+AUD097,SUCCESS,2880.45,phonepe,MID-097,"{'prefix': 'IPNT', 'serial_number': '42097', 'model': 'ET700', 'type': 'dynamic', 'service_type': 'PAYMENT'}",
+AUD098,FAILED,1380.8,paytm,MID-098,"{'prefix': 'MD', 'serial_number': '42098', 'model': 'ET500', 'type': 'static', 'service_type': 'NOTIFY'}",2026-08-10 17:00:00+00:00
+AUD099,PENDING,1420.25,bhim,MID-099,"{'prefix': 'IPNT', 'serial_number': '42099', 'model': None, 'type': 'dynamic', 'service_type': 'PAYMENT'}",2026-08-10 18:00:00+00:00
+AUD100,SUCCESS,2650.9,gpay,MID-100,"{'prefix': 'MD', 'serial_number': '42100', 'model': 'ET390Lite', 'type': 'static', 'service_type': 'PAYMENT'}",2026-08-10 19:00:00+00:00

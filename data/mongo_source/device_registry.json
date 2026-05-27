@@ -1,0 +1,2019 @@
+[
+  {
+    "_id": "DR001",
+    "prefix": "IPNT",
+    "serial_number": "42001",
+    "machine_identifier": "MID-001",
+    "is_active": true,
+    "language": 0,
+    "model": "ET389Pro A10",
+    "type": "dynamic",
+    "created_at": "2026-05-01T10:00:00Z",
+    "updated_at": "2026-05-01T10:00:00Z",
+    "gpay": {
+      "merchantId": "GP001",
+      "terminalId": "GT001",
+      "merchantName": "Smart Store"
+    },
+    "phonepe": null,
+    "paytm": null,
+    "bhim": null
+  },
+  {
+    "_id": "DR002",
+    "prefix": "MD",
+    "serial_number": "42002",
+    "machine_identifier": "MID-002",
+    "is_active": true,
+    "language": 1,
+    "model": "ET390Lite",
+    "type": "static",
+    "created_at": "2026-05-02T10:00:00Z",
+    "updated_at": "2026-05-02T10:00:00Z",
+    "gpay": null,
+    "phonepe": {
+      "merchantId": "PP002",
+      "terminalId": "PT002",
+      "merchantName": "Metro Mart"
+    },
+    "paytm": null,
+    "bhim": null
+  },
+  {
+    "_id": "DR003",
+    "prefix": "IPNT",
+    "serial_number": "42003",
+    "machine_identifier": "MID-003",
+    "is_active": false,
+    "language": 0,
+    "model": "ET389",
+    "type": "dynamic",
+    "created_at": "2026-05-03T10:00:00Z",
+    "updated_at": "2026-05-03T10:00:00Z",
+    "gpay": null,
+    "phonepe": null,
+    "paytm": {
+      "merchantId": "PY003",
+      "terminalId": "PM003",
+      "merchantName": "Fresh Shop"
+    },
+    "bhim": null
+  },
+  {
+    "_id": "DR004",
+    "prefix": "IPNT",
+    "serial_number": "42004",
+    "machine_identifier": "MID-004",
+    "is_active": true,
+    "language": 2,
+    "model": "ET500",
+    "type": "static",
+    "created_at": "invalid-date",
+    "updated_at": "2026-05-04T10:00:00Z",
+    "gpay": null,
+    "phonepe": null,
+    "paytm": null,
+    "bhim": {
+      "merchantId": "BH004",
+      "terminalId": "BT004",
+      "merchantName": "Quick Buy"
+    }
+  },
+  {
+    "_id": "DR005",
+    "prefix": "IPNT",
+    "serial_number": null,
+    "machine_identifier": "MID-005",
+    "is_active": true,
+    "language": 0,
+    "model": "ET389Pro A10",
+    "type": "dynamic",
+    "created_at": "2026-05-05T10:00:00Z",
+    "updated_at": "2026-05-05T10:00:00Z",
+    "gpay": {
+      "merchantId": "GP005",
+      "terminalId": "GT005",
+      "merchantName": "Daily Needs"
+    },
+    "phonepe": null,
+    "paytm": null,
+    "bhim": null
+  },
+  {
+    "_id": "DR006",
+    "prefix": "MD",
+    "serial_number": "42006",
+    "machine_identifier": "MID-006",
+    "is_active": true,
+    "language": 1,
+    "model": "ET390Lite",
+    "type": "static",
+    "created_at": "2026-05-06T10:00:00Z",
+    "updated_at": "2026-05-06T10:00:00Z",
+    "gpay": null,
+    "phonepe": null,
+    "paytm": {
+      "merchantId": "PY006",
+      "terminalId": "PM006",
+      "merchantName": "City Shop"
+    },
+    "bhim": null
+  },
+  {
+    "_id": "DR007",
+    "prefix": "IPNT",
+    "serial_number": "42007",
+    "machine_identifier": "MID-007",
+    "is_active": true,
+    "language": 0,
+    "model": "ET700",
+    "type": "dynamic",
+    "created_at": "2026-05-07T10:00:00Z",
+    "updated_at": "2026-05-07T10:00:00Z",
+    "gpay": {
+      "merchantId": "GP007",
+      "terminalId": "GT007",
+      "merchantName": "Mega Store"
+    },
+    "phonepe": null,
+    "paytm": null,
+    "bhim": null
+  },
+  {
+    "_id": "DR008",
+    "prefix": "MD",
+    "serial_number": "42008",
+    "machine_identifier": "MID-008",
+    "is_active": true,
+    "language": "english",
+    "model": "ET389",
+    "type": "static",
+    "created_at": "2026-05-08T10:00:00Z",
+    "updated_at": "2026-05-08T10:00:00Z",
+    "gpay": null,
+    "phonepe": {
+      "merchantId": "PP008",
+      "terminalId": "PT008",
+      "merchantName": ""
+    },
+    "paytm": null,
+    "bhim": null
+  },
+  {
+    "_id": "DR009",
+    "prefix": "IPNT",
+    "serial_number": "42009",
+    "machine_identifier": "MID-009",
+    "is_active": true,
+    "language": 0,
+    "model": null,
+    "type": "dynamic",
+    "created_at": "2026-05-09T10:00:00Z",
+    "updated_at": "2026-05-09T10:00:00Z",
+    "gpay": {
+      "merchantId": "GP009",
+      "terminalId": "GT009",
+      "merchantName": "Market Hub"
+    },
+    "phonepe": null,
+    "paytm": null,
+    "bhim": null
+  },
+  {
+    "_id": "DR010",
+    "prefix": "MD",
+    "serial_number": "42010",
+    "machine_identifier": "MID-010",
+    "is_active": "yes",
+    "language": 1,
+    "model": "ET390Lite",
+    "type": "static",
+    "created_at": "2026-05-10T10:00:00Z",
+    "updated_at": null,
+    "gpay": null,
+    "phonepe": null,
+    "paytm": {
+      "merchantId": "PY010",
+      "terminalId": "PM010",
+      "merchantName": "Quick Mart"
+    },
+    "bhim": null
+  },
+  
+  {
+    "_id": "DR011",
+    "prefix": "IPNT",
+    "serial_number": "42011",
+    "machine_identifier": "MID-011",
+    "is_active": true,
+    "language": 0,
+    "model": "ET389Pro",
+    "type": "dynamic",
+    "created_at": "2026-05-11T10:00:00Z",
+    "updated_at": "2026-05-11T10:00:00Z",
+    "gpay": {
+      "merchantId": "GP011",
+      "terminalId": "GT011",
+      "merchantName": "Easy Buy"
+    },
+    "phonepe": null,
+    "paytm": null,
+    "bhim": null
+  },
+  {
+    "_id": "DR012",
+    "prefix": "MD",
+    "serial_number": "42012",
+    "machine_identifier": "MID-012",
+    "is_active": true,
+    "language": 1,
+    "model": "ET500",
+    "type": "static",
+    "created_at": "2026-05-12T10:00:00Z",
+    "updated_at": "2026-05-12T10:00:00Z",
+    "gpay": null,
+    "phonepe": {
+      "merchantId": "PP012",
+      "terminalId": "PT012",
+      "merchantName": "Food Corner"
+    },
+    "paytm": null,
+    "bhim": null
+  },
+  {
+    "_id": "DR013",
+    "prefix": "IPNT",
+    "serial_number": "42013",
+    "machine_identifier": "MID-013",
+    "is_active": false,
+    "language": 0,
+    "model": "ET389",
+    "type": "dynamic",
+    "created_at": "2026-05-13T10:00:00Z",
+    "updated_at": "2026-05-13T10:00:00Z",
+    "gpay": null,
+    "phonepe": null,
+    "paytm": {
+      "merchantId": "PY013",
+      "terminalId": "PM013",
+      "merchantName": "Mini Store"
+    },
+    "bhim": null
+  },
+  {
+    "_id": "DR014",
+    "prefix": "MD",
+    "serial_number": "42014",
+    "machine_identifier": "MID-014",
+    "is_active": true,
+    "language": 2,
+    "model": "ET700",
+    "type": "static",
+    "created_at": "wrong-date",
+    "updated_at": "2026-05-14T10:00:00Z",
+    "gpay": null,
+    "phonepe": null,
+    "paytm": null,
+    "bhim": {
+      "merchantId": "BH014",
+      "terminalId": "BT014",
+      "merchantName": "Fresh Point"
+    }
+  },
+  {
+    "_id": "DR015",
+    "prefix": "IPNT",
+    "serial_number": null,
+    "machine_identifier": "MID-015",
+    "is_active": true,
+    "language": 0,
+    "model": "ET389Pro",
+    "type": "dynamic",
+    "created_at": "2026-05-15T10:00:00Z",
+    "updated_at": "2026-05-15T10:00:00Z",
+    "gpay": {
+      "merchantId": "GP015",
+      "terminalId": "GT015",
+      "merchantName": "Retail Hub"
+    },
+    "phonepe": null,
+    "paytm": null,
+    "bhim": null
+  },
+  {
+    "_id": "DR016",
+    "prefix": "MD",
+    "serial_number": "42016",
+    "machine_identifier": "MID-016",
+    "is_active": true,
+    "language": 1,
+    "model": "ET390Lite",
+    "type": "static",
+    "created_at": "2026-05-16T10:00:00Z",
+    "updated_at": "2026-05-16T10:00:00Z",
+    "gpay": null,
+    "phonepe": null,
+    "paytm": {
+      "merchantId": "PY016",
+      "terminalId": "PM016",
+      "merchantName": "Super Market"
+    },
+    "bhim": null
+  },
+  {
+    "_id": "DR017",
+    "prefix": "IPNT",
+    "serial_number": "42017",
+    "machine_identifier": "MID-017",
+    "is_active": true,
+    "language": 0,
+    "model": "ET389",
+    "type": "dynamic",
+    "created_at": "2026-05-17T10:00:00Z",
+    "updated_at": "2026-05-17T10:00:00Z",
+    "gpay": {
+      "merchantId": "GP017",
+      "terminalId": "GT017",
+      "merchantName": "City Mall"
+    },
+    "phonepe": null,
+    "paytm": null,
+    "bhim": null
+  },
+  {
+    "_id": "DR018",
+    "prefix": "MD",
+    "serial_number": "42018",
+    "machine_identifier": "MID-018",
+    "is_active": true,
+    "language": "nepali",
+    "model": "ET700",
+    "type": "static",
+    "created_at": "2026-05-18T10:00:00Z",
+    "updated_at": "2026-05-18T10:00:00Z",
+    "gpay": null,
+    "phonepe": {
+      "merchantId": "PP018",
+      "terminalId": "PT018",
+      "merchantName": ""
+    },
+    "paytm": null,
+    "bhim": null
+  },
+  {
+    "_id": "DR019",
+    "prefix": "IPNT",
+    "serial_number": "42019",
+    "machine_identifier": "MID-019",
+    "is_active": true,
+    "language": 0,
+    "model": null,
+    "type": "dynamic",
+    "created_at": "2026-05-19T10:00:00Z",
+    "updated_at": "2026-05-19T10:00:00Z",
+    "gpay": {
+      "merchantId": "GP019",
+      "terminalId": "GT019",
+      "merchantName": "Shop Zone"
+    },
+    "phonepe": null,
+    "paytm": null,
+    "bhim": null
+  },
+  {
+    "_id": "DR020",
+    "prefix": "MD",
+    "serial_number": "42020",
+    "machine_identifier": "MID-020",
+    "is_active": "true",
+    "language": 1,
+    "model": "ET390Lite",
+    "type": "static",
+    "created_at": "2026-05-20T10:00:00Z",
+    "updated_at": null,
+    "gpay": null,
+    "phonepe": null,
+    "paytm": {
+      "merchantId": "PY020",
+      "terminalId": "PM020",
+      "merchantName": "Mega Mart"
+    },
+    "bhim": null
+  },
+  
+  {
+    "_id": "DR021",
+    "prefix": "IPNT",
+    "serial_number": "42021",
+    "machine_identifier": "MID-021",
+    "is_active": true,
+    "language": 0,
+    "model": "ET389Pro",
+    "type": "dynamic",
+    "created_at": "2026-05-21T10:00:00Z",
+    "updated_at": "2026-05-21T10:00:00Z",
+    "gpay": {
+      "merchantId": "GP021",
+      "terminalId": "GT021",
+      "merchantName": "Fresh Basket"
+    },
+    "phonepe": null,
+    "paytm": null,
+    "bhim": null
+  },
+  {
+    "_id": "DR022",
+    "prefix": "MD",
+    "serial_number": "42022",
+    "machine_identifier": "MID-022",
+    "is_active": true,
+    "language": 1,
+    "model": "ET390Lite",
+    "type": "static",
+    "created_at": "2026-05-22T10:00:00Z",
+    "updated_at": "2026-05-22T10:00:00Z",
+    "gpay": null,
+    "phonepe": {
+      "merchantId": "PP022",
+      "terminalId": "PT022",
+      "merchantName": "Metro Hub"
+    },
+    "paytm": null,
+    "bhim": null
+  },
+  {
+    "_id": "DR023",
+    "prefix": "IPNT",
+    "serial_number": "42023",
+    "machine_identifier": "MID-023",
+    "is_active": false,
+    "language": 0,
+    "model": "ET500",
+    "type": "dynamic",
+    "created_at": "2026-05-23T10:00:00Z",
+    "updated_at": "2026-05-23T10:00:00Z",
+    "gpay": null,
+    "phonepe": null,
+    "paytm": {
+      "merchantId": "PY023",
+      "terminalId": "PM023",
+      "merchantName": "City Fresh"
+    },
+    "bhim": null
+  },
+  {
+    "_id": "DR024",
+    "prefix": "MD",
+    "serial_number": "42024",
+    "machine_identifier": "MID-024",
+    "is_active": true,
+    "language": 2,
+    "model": "ET700",
+    "type": "static",
+    "created_at": "invalid-date",
+    "updated_at": "2026-05-24T10:00:00Z",
+    "gpay": null,
+    "phonepe": null,
+    "paytm": null,
+    "bhim": {
+      "merchantId": "BH024",
+      "terminalId": "BT024",
+      "merchantName": "Quick Basket"
+    }
+  },
+  {
+    "_id": "DR025",
+    "prefix": "IPNT",
+    "serial_number": null,
+    "machine_identifier": "MID-025",
+    "is_active": true,
+    "language": 0,
+    "model": "ET389Pro",
+    "type": "dynamic",
+    "created_at": "2026-05-25T10:00:00Z",
+    "updated_at": "2026-05-25T10:00:00Z",
+    "gpay": {
+      "merchantId": "GP025",
+      "terminalId": "GT025",
+      "merchantName": "Easy Mart"
+    },
+    "phonepe": null,
+    "paytm": null,
+    "bhim": null
+  },
+  {
+    "_id": "DR026",
+    "prefix": "MD",
+    "serial_number": "42026",
+    "machine_identifier": "MID-026",
+    "is_active": true,
+    "language": 1,
+    "model": "ET390Lite",
+    "type": "static",
+    "created_at": "2026-05-26T10:00:00Z",
+    "updated_at": "2026-05-26T10:00:00Z",
+    "gpay": null,
+    "phonepe": null,
+    "paytm": {
+      "merchantId": "PY026",
+      "terminalId": "PM026",
+      "merchantName": "Daily Shop"
+    },
+    "bhim": null
+  },
+  {
+    "_id": "DR027",
+    "prefix": "IPNT",
+    "serial_number": "42027",
+    "machine_identifier": "MID-027",
+    "is_active": true,
+    "language": 0,
+    "model": "ET389",
+    "type": "dynamic",
+    "created_at": "2026-05-27T10:00:00Z",
+    "updated_at": "2026-05-27T10:00:00Z",
+    "gpay": {
+      "merchantId": "GP027",
+      "terminalId": "GT027",
+      "merchantName": "Retail World"
+    },
+    "phonepe": null,
+    "paytm": null,
+    "bhim": null
+  },
+  {
+    "_id": "DR028",
+    "prefix": "MD",
+    "serial_number": "42028",
+    "machine_identifier": "MID-028",
+    "is_active": true,
+    "language": "english",
+    "model": "ET700",
+    "type": "static",
+    "created_at": "2026-05-28T10:00:00Z",
+    "updated_at": "2026-05-28T10:00:00Z",
+    "gpay": null,
+    "phonepe": {
+      "merchantId": "PP028",
+      "terminalId": "PT028",
+      "merchantName": ""
+    },
+    "paytm": null,
+    "bhim": null
+  },
+  {
+    "_id": "DR029",
+    "prefix": "IPNT",
+    "serial_number": "42029",
+    "machine_identifier": "MID-029",
+    "is_active": true,
+    "language": 0,
+    "model": null,
+    "type": "dynamic",
+    "created_at": "2026-05-29T10:00:00Z",
+    "updated_at": "2026-05-29T10:00:00Z",
+    "gpay": {
+      "merchantId": "GP029",
+      "terminalId": "GT029",
+      "merchantName": "Mega Bazaar"
+    },
+    "phonepe": null,
+    "paytm": null,
+    "bhim": null
+  },
+  {
+    "_id": "DR030",
+    "prefix": "MD",
+    "serial_number": "42030",
+    "machine_identifier": "MID-030",
+    "is_active": "yes",
+    "language": 1,
+    "model": "ET390Lite",
+    "type": "static",
+    "created_at": "2026-05-30T10:00:00Z",
+    "updated_at": null,
+    "gpay": null,
+    "phonepe": null,
+    "paytm": {
+      "merchantId": "PY030",
+      "terminalId": "PM030",
+      "merchantName": "Fast Retail"
+    },
+    "bhim": null
+  },
+  
+  {
+    "_id": "DR031",
+    "prefix": "IPNT",
+    "serial_number": "42031",
+    "machine_identifier": "MID-031",
+    "is_active": true,
+    "language": 0,
+    "model": "ET389Pro",
+    "type": "dynamic",
+    "created_at": "2026-06-01T10:00:00Z",
+    "updated_at": "2026-06-01T10:00:00Z",
+    "gpay": {
+      "merchantId": "GP031",
+      "terminalId": "GT031",
+      "merchantName": "Fresh Hub"
+    },
+    "phonepe": null,
+    "paytm": null,
+    "bhim": null
+  },
+  {
+    "_id": "DR032",
+    "prefix": "MD",
+    "serial_number": "42032",
+    "machine_identifier": "MID-032",
+    "is_active": true,
+    "language": 1,
+    "model": "ET390Lite",
+    "type": "static",
+    "created_at": "2026-06-02T10:00:00Z",
+    "updated_at": "2026-06-02T10:00:00Z",
+    "gpay": null,
+    "phonepe": {
+      "merchantId": "PP032",
+      "terminalId": "PT032",
+      "merchantName": "Retail Plaza"
+    },
+    "paytm": null,
+    "bhim": null
+  },
+  {
+    "_id": "DR033",
+    "prefix": "IPNT",
+    "serial_number": "42033",
+    "machine_identifier": "MID-033",
+    "is_active": false,
+    "language": 0,
+    "model": "ET389",
+    "type": "dynamic",
+    "created_at": "2026-06-03T10:00:00Z",
+    "updated_at": "2026-06-03T10:00:00Z",
+    "gpay": null,
+    "phonepe": null,
+    "paytm": {
+      "merchantId": "PY033",
+      "terminalId": "PM033",
+      "merchantName": "Mini Market"
+    },
+    "bhim": null
+  },
+  {
+    "_id": "DR034",
+    "prefix": "MD",
+    "serial_number": "42034",
+    "machine_identifier": "MID-034",
+    "is_active": true,
+    "language": 2,
+    "model": "ET500",
+    "type": "static",
+    "created_at": "wrong-date",
+    "updated_at": "2026-06-04T10:00:00Z",
+    "gpay": null,
+    "phonepe": null,
+    "paytm": null,
+    "bhim": {
+      "merchantId": "BH034",
+      "terminalId": "BT034",
+      "merchantName": "Quick Retail"
+    }
+  },
+  {
+    "_id": "DR035",
+    "prefix": "IPNT",
+    "serial_number": null,
+    "machine_identifier": "MID-035",
+    "is_active": true,
+    "language": 0,
+    "model": "ET389Pro",
+    "type": "dynamic",
+    "created_at": "2026-06-05T10:00:00Z",
+    "updated_at": "2026-06-05T10:00:00Z",
+    "gpay": {
+      "merchantId": "GP035",
+      "terminalId": "GT035",
+      "merchantName": "Urban Shop"
+    },
+    "phonepe": null,
+    "paytm": null,
+    "bhim": null
+  },
+  {
+    "_id": "DR036",
+    "prefix": "MD",
+    "serial_number": "42036",
+    "machine_identifier": "MID-036",
+    "is_active": true,
+    "language": 1,
+    "model": "ET390Lite",
+    "type": "static",
+    "created_at": "2026-06-06T10:00:00Z",
+    "updated_at": "2026-06-06T10:00:00Z",
+    "gpay": null,
+    "phonepe": null,
+    "paytm": {
+      "merchantId": "PY036",
+      "terminalId": "PM036",
+      "merchantName": "City Retail"
+    },
+    "bhim": null
+  },
+  {
+    "_id": "DR037",
+    "prefix": "IPNT",
+    "serial_number": "42037",
+    "machine_identifier": "MID-037",
+    "is_active": true,
+    "language": 0,
+    "model": "ET700",
+    "type": "dynamic",
+    "created_at": "2026-06-07T10:00:00Z",
+    "updated_at": "2026-06-07T10:00:00Z",
+    "gpay": {
+      "merchantId": "GP037",
+      "terminalId": "GT037",
+      "merchantName": "Fresh Point"
+    },
+    "phonepe": null,
+    "paytm": null,
+    "bhim": null
+  },
+  {
+    "_id": "DR038",
+    "prefix": "MD",
+    "serial_number": "42038",
+    "machine_identifier": "MID-038",
+    "is_active": true,
+    "language": "english",
+    "model": "ET500",
+    "type": "static",
+    "created_at": "2026-06-08T10:00:00Z",
+    "updated_at": "2026-06-08T10:00:00Z",
+    "gpay": null,
+    "phonepe": {
+      "merchantId": "PP038",
+      "terminalId": "PT038",
+      "merchantName": ""
+    },
+    "paytm": null,
+    "bhim": null
+  },
+  {
+    "_id": "DR039",
+    "prefix": "IPNT",
+    "serial_number": "42039",
+    "machine_identifier": "MID-039",
+    "is_active": true,
+    "language": 0,
+    "model": null,
+    "type": "dynamic",
+    "created_at": "2026-06-09T10:00:00Z",
+    "updated_at": "2026-06-09T10:00:00Z",
+    "gpay": {
+      "merchantId": "GP039",
+      "terminalId": "GT039",
+      "merchantName": "Mega Store"
+    },
+    "phonepe": null,
+    "paytm": null,
+    "bhim": null
+  },
+  {
+    "_id": "DR040",
+    "prefix": "MD",
+    "serial_number": "42040",
+    "machine_identifier": "MID-040",
+    "is_active": "yes",
+    "language": 1,
+    "model": "ET390Lite",
+    "type": "static",
+    "created_at": "2026-06-10T10:00:00Z",
+    "updated_at": null,
+    "gpay": null,
+    "phonepe": null,
+    "paytm": {
+      "merchantId": "PY040",
+      "terminalId": "PM040",
+      "merchantName": "Retail Hub"
+    },
+    "bhim": null
+  },
+  
+  {
+    "_id": "DR041",
+    "prefix": "IPNT",
+    "serial_number": "42041",
+    "machine_identifier": "MID-041",
+    "is_active": true,
+    "language": 0,
+    "model": "ET389Pro",
+    "type": "dynamic",
+    "created_at": "2026-06-11T10:00:00Z",
+    "updated_at": "2026-06-11T10:00:00Z",
+    "gpay": {
+      "merchantId": "GP041",
+      "terminalId": "GT041",
+      "merchantName": "City Fresh"
+    },
+    "phonepe": null,
+    "paytm": null,
+    "bhim": null
+  },
+  {
+    "_id": "DR042",
+    "prefix": "MD",
+    "serial_number": "42042",
+    "machine_identifier": "MID-042",
+    "is_active": true,
+    "language": 1,
+    "model": "ET390Lite",
+    "type": "static",
+    "created_at": "2026-06-12T10:00:00Z",
+    "updated_at": "2026-06-12T10:00:00Z",
+    "gpay": null,
+    "phonepe": {
+      "merchantId": "PP042",
+      "terminalId": "PT042",
+      "merchantName": "Metro Retail"
+    },
+    "paytm": null,
+    "bhim": null
+  },
+  {
+    "_id": "DR043",
+    "prefix": "IPNT",
+    "serial_number": "42043",
+    "machine_identifier": "MID-043",
+    "is_active": false,
+    "language": 0,
+    "model": "ET389",
+    "type": "dynamic",
+    "created_at": "2026-06-13T10:00:00Z",
+    "updated_at": "2026-06-13T10:00:00Z",
+    "gpay": null,
+    "phonepe": null,
+    "paytm": {
+      "merchantId": "PY043",
+      "terminalId": "PM043",
+      "merchantName": "Mini Fresh"
+    },
+    "bhim": null
+  },
+  {
+    "_id": "DR044",
+    "prefix": "MD",
+    "serial_number": "42044",
+    "machine_identifier": "MID-044",
+    "is_active": true,
+    "language": 2,
+    "model": "ET700",
+    "type": "static",
+    "created_at": "invalid-date",
+    "updated_at": "2026-06-14T10:00:00Z",
+    "gpay": null,
+    "phonepe": null,
+    "paytm": null,
+    "bhim": {
+      "merchantId": "BH044",
+      "terminalId": "BT044",
+      "merchantName": "Fast Buy"
+    }
+  },
+  {
+    "_id": "DR045",
+    "prefix": "IPNT",
+    "serial_number": null,
+    "machine_identifier": "MID-045",
+    "is_active": true,
+    "language": 0,
+    "model": "ET389Pro",
+    "type": "dynamic",
+    "created_at": "2026-06-15T10:00:00Z",
+    "updated_at": "2026-06-15T10:00:00Z",
+    "gpay": {
+      "merchantId": "GP045",
+      "terminalId": "GT045",
+      "merchantName": "Easy Basket"
+    },
+    "phonepe": null,
+    "paytm": null,
+    "bhim": null
+  },
+  {
+    "_id": "DR046",
+    "prefix": "MD",
+    "serial_number": "42046",
+    "machine_identifier": "MID-046",
+    "is_active": true,
+    "language": 1,
+    "model": "ET390Lite",
+    "type": "static",
+    "created_at": "2026-06-16T10:00:00Z",
+    "updated_at": "2026-06-16T10:00:00Z",
+    "gpay": null,
+    "phonepe": null,
+    "paytm": {
+      "merchantId": "PY046",
+      "terminalId": "PM046",
+      "merchantName": "Urban Market"
+    },
+    "bhim": null
+  },
+  {
+    "_id": "DR047",
+    "prefix": "IPNT",
+    "serial_number": "42047",
+    "machine_identifier": "MID-047",
+    "is_active": true,
+    "language": 0,
+    "model": "ET700",
+    "type": "dynamic",
+    "created_at": "2026-06-17T10:00:00Z",
+    "updated_at": "2026-06-17T10:00:00Z",
+    "gpay": {
+      "merchantId": "GP047",
+      "terminalId": "GT047",
+      "merchantName": "Mega Hub"
+    },
+    "phonepe": null,
+    "paytm": null,
+    "bhim": null
+  },
+  {
+    "_id": "DR048",
+    "prefix": "MD",
+    "serial_number": "42048",
+    "machine_identifier": "MID-048",
+    "is_active": true,
+    "language": "english",
+    "model": "ET500",
+    "type": "static",
+    "created_at": "2026-06-18T10:00:00Z",
+    "updated_at": "2026-06-18T10:00:00Z",
+    "gpay": null,
+    "phonepe": {
+      "merchantId": "PP048",
+      "terminalId": "PT048",
+      "merchantName": ""
+    },
+    "paytm": null,
+    "bhim": null
+  },
+  {
+    "_id": "DR049",
+    "prefix": "IPNT",
+    "serial_number": "42049",
+    "machine_identifier": "MID-049",
+    "is_active": true,
+    "language": 0,
+    "model": null,
+    "type": "dynamic",
+    "created_at": "2026-06-19T10:00:00Z",
+    "updated_at": "2026-06-19T10:00:00Z",
+    "gpay": {
+      "merchantId": "GP049",
+      "terminalId": "GT049",
+      "merchantName": "Daily Retail"
+    },
+    "phonepe": null,
+    "paytm": null,
+    "bhim": null
+  },
+  {
+    "_id": "DR050",
+    "prefix": "MD",
+    "serial_number": "42050",
+    "machine_identifier": "MID-050",
+    "is_active": "yes",
+    "language": 1,
+    "model": "ET390Lite",
+    "type": "static",
+    "created_at": "2026-06-20T10:00:00Z",
+    "updated_at": null,
+    "gpay": null,
+    "phonepe": null,
+    "paytm": {
+      "merchantId": "PY050",
+      "terminalId": "PM050",
+      "merchantName": "Retail Point"
+    },
+    "bhim": null
+  },
+  
+  {
+    "_id": "DR051",
+    "prefix": "IPNT",
+    "serial_number": "42051",
+    "machine_identifier": "MID-051",
+    "is_active": true,
+    "language": 0,
+    "model": "ET389Pro",
+    "type": "dynamic",
+    "created_at": "2026-06-21T10:00:00Z",
+    "updated_at": "2026-06-21T10:00:00Z",
+    "gpay": {
+      "merchantId": "GP051",
+      "terminalId": "GT051",
+      "merchantName": "Fresh Retail"
+    },
+    "phonepe": null,
+    "paytm": null,
+    "bhim": null
+  },
+  {
+    "_id": "DR052",
+    "prefix": "MD",
+    "serial_number": "42052",
+    "machine_identifier": "MID-052",
+    "is_active": true,
+    "language": 1,
+    "model": "ET390Lite",
+    "type": "static",
+    "created_at": "2026-06-22T10:00:00Z",
+    "updated_at": "2026-06-22T10:00:00Z",
+    "gpay": null,
+    "phonepe": {
+      "merchantId": "PP052",
+      "terminalId": "PT052",
+      "merchantName": "Metro Shop"
+    },
+    "paytm": null,
+    "bhim": null
+  },
+  {
+    "_id": "DR053",
+    "prefix": "IPNT",
+    "serial_number": "42053",
+    "machine_identifier": "MID-053",
+    "is_active": false,
+    "language": 0,
+    "model": "ET389",
+    "type": "dynamic",
+    "created_at": "2026-06-23T10:00:00Z",
+    "updated_at": "2026-06-23T10:00:00Z",
+    "gpay": null,
+    "phonepe": null,
+    "paytm": {
+      "merchantId": "PY053",
+      "terminalId": "PM053",
+      "merchantName": "Quick Store"
+    },
+    "bhim": null
+  },
+  {
+    "_id": "DR054",
+    "prefix": "MD",
+    "serial_number": "42054",
+    "machine_identifier": "MID-054",
+    "is_active": true,
+    "language": 2,
+    "model": "ET700",
+    "type": "static",
+    "created_at": "invalid-date",
+    "updated_at": "2026-06-24T10:00:00Z",
+    "gpay": null,
+    "phonepe": null,
+    "paytm": null,
+    "bhim": {
+      "merchantId": "BH054",
+      "terminalId": "BT054",
+      "merchantName": "Fast Retail"
+    }
+  },
+  {
+    "_id": "DR055",
+    "prefix": "IPNT",
+    "serial_number": null,
+    "machine_identifier": "MID-055",
+    "is_active": true,
+    "language": 0,
+    "model": "ET389Pro",
+    "type": "dynamic",
+    "created_at": "2026-06-25T10:00:00Z",
+    "updated_at": "2026-06-25T10:00:00Z",
+    "gpay": {
+      "merchantId": "GP055",
+      "terminalId": "GT055",
+      "merchantName": "Urban Hub"
+    },
+    "phonepe": null,
+    "paytm": null,
+    "bhim": null
+  },
+  {
+    "_id": "DR056",
+    "prefix": "MD",
+    "serial_number": "42056",
+    "machine_identifier": "MID-056",
+    "is_active": true,
+    "language": 1,
+    "model": "ET390Lite",
+    "type": "static",
+    "created_at": "2026-06-26T10:00:00Z",
+    "updated_at": "2026-06-26T10:00:00Z",
+    "gpay": null,
+    "phonepe": null,
+    "paytm": {
+      "merchantId": "PY056",
+      "terminalId": "PM056",
+      "merchantName": "Retail Spot"
+    },
+    "bhim": null
+  },
+  {
+    "_id": "DR057",
+    "prefix": "IPNT",
+    "serial_number": "42057",
+    "machine_identifier": "MID-057",
+    "is_active": true,
+    "language": 0,
+    "model": "ET700",
+    "type": "dynamic",
+    "created_at": "2026-06-27T10:00:00Z",
+    "updated_at": "2026-06-27T10:00:00Z",
+    "gpay": {
+      "merchantId": "GP057",
+      "terminalId": "GT057",
+      "merchantName": "Mega Retail"
+    },
+    "phonepe": null,
+    "paytm": null,
+    "bhim": null
+  },
+  {
+    "_id": "DR058",
+    "prefix": "MD",
+    "serial_number": "42058",
+    "machine_identifier": "MID-058",
+    "is_active": true,
+    "language": "english",
+    "model": "ET500",
+    "type": "static",
+    "created_at": "2026-06-28T10:00:00Z",
+    "updated_at": "2026-06-28T10:00:00Z",
+    "gpay": null,
+    "phonepe": {
+      "merchantId": "PP058",
+      "terminalId": "PT058",
+      "merchantName": ""
+    },
+    "paytm": null,
+    "bhim": null
+  },
+  {
+    "_id": "DR059",
+    "prefix": "IPNT",
+    "serial_number": "42059",
+    "machine_identifier": "MID-059",
+    "is_active": true,
+    "language": 0,
+    "model": null,
+    "type": "dynamic",
+    "created_at": "2026-06-29T10:00:00Z",
+    "updated_at": "2026-06-29T10:00:00Z",
+    "gpay": {
+      "merchantId": "GP059",
+      "terminalId": "GT059",
+      "merchantName": "Smart Bazaar"
+    },
+    "phonepe": null,
+    "paytm": null,
+    "bhim": null
+  },
+  {
+    "_id": "DR060",
+    "prefix": "MD",
+    "serial_number": "42060",
+    "machine_identifier": "MID-060",
+    "is_active": "yes",
+    "language": 1,
+    "model": "ET390Lite",
+    "type": "static",
+    "created_at": "2026-06-30T10:00:00Z",
+    "updated_at": null,
+    "gpay": null,
+    "phonepe": null,
+    "paytm": {
+      "merchantId": "PY060",
+      "terminalId": "PM060",
+      "merchantName": "Daily Market"
+    },
+    "bhim": null
+  },
+  
+  {
+    "_id": "DR061",
+    "prefix": "IPNT",
+    "serial_number": 42061,
+    "machine_identifier": "MID-061",
+    "is_active": true,
+    "language": 1,
+    "model": "ET700",
+    "type": "unknown-device",
+    "created_at": null,
+    "updated_at": "2026-07-01T10:00:00Z",
+    "gpay": null,
+    "phonepe": {
+      "merchantId": "PP061",
+      "terminalId": "PT061",
+      "merchantName": "City Mart"
+    },
+    "paytm": null,
+    "bhim": null
+  },
+  {
+    "_id": "DR062",
+    "prefix": "MD",
+    "serial_number": "42062",
+    "machine_identifier": "MID-062",
+    "is_active": true,
+    "language": 0,
+    "model": "ET389Pro",
+    "type": "dynamic",
+    "created_at": "2026-07-02T10:00:00Z",
+    "updated_at": "2026-07-02T10:00:00Z",
+    "gpay": {
+      "merchantId": "GP062",
+      "terminalId": "GT062",
+      "merchantName": "Retail City"
+    },
+    "phonepe": null,
+    "paytm": null,
+    "bhim": null
+  },
+  {
+    "_id": "DR063",
+    "prefix": "",
+    "serial_number": "42063",
+    "machine_identifier": "MID-063",
+    "is_active": false,
+    "language": 1,
+    "model": "ET500",
+    "type": "static",
+    "created_at": "2010-01-01T00:00:00Z",
+    "updated_at": "2026-07-03T10:00:00Z",
+    "gpay": null,
+    "phonepe": null,
+    "paytm": {
+      "merchantId": "PY063",
+      "terminalId": "PM063",
+      "merchantName": "Mini Retail"
+    },
+    "bhim": null
+  },
+  {
+    "_id": "DR064",
+    "prefix": "IPNT",
+    "serial_number": "42064",
+    "machine_identifier": "MID-064",
+    "is_active": true,
+    "language": "english",
+    "model": null,
+    "type": "dynamic",
+    "created_at": "invalid-date",
+    "updated_at": "2026-07-04T10:00:00Z",
+    "gpay": {
+      "merchantId": "GP064",
+      "terminalId": "GT064",
+      "merchantName": ""
+    },
+    "phonepe": null,
+    "paytm": null,
+    "bhim": null
+  },
+  {
+    "_id": "DR065",
+    "prefix": "MD",
+    "serial_number": null,
+    "machine_identifier": "MID-065",
+    "is_active": true,
+    "language": 0,
+    "model": "ET390Lite",
+    "type": "static",
+    "created_at": "2026-07-05T10:00:00Z",
+    "updated_at": null,
+    "gpay": null,
+    "phonepe": {
+      "merchantId": "PP065",
+      "terminalId": "PT065",
+      "merchantName": "Daily Mart"
+    },
+    "paytm": null,
+    "bhim": null
+  },
+  {
+    "_id": "DR066",
+    "prefix": "IPNT",
+    "serial_number": "42066",
+    "machine_identifier": "MID-066",
+    "is_active": "yes",
+    "language": 1,
+    "model": "ET700",
+    "type": "dynamic",
+    "created_at": "2026-07-06T10:00:00Z",
+    "updated_at": "2026-07-06T10:00:00Z",
+    "gpay": {
+      "merchantId": "GP066",
+      "terminalId": "GT066",
+      "merchantName": "Fresh Basket"
+    },
+    "phonepe": null,
+    "paytm": null,
+    "bhim": null
+  },
+  {
+    "_id": "DR067",
+    "prefix": "MD",
+    "serial_number": "42067",
+    "machine_identifier": "MID-067",
+    "is_active": true,
+    "language": 0,
+    "model": "ET389",
+    "type": "static",
+    "created_at": "2026-07-07T10:00:00Z",
+    "updated_at": "2026-07-07T10:00:00Z",
+    "gpay": null,
+    "phonepe": null,
+    "paytm": {
+      "merchantId": "PY067",
+      "terminalId": "PM067",
+      "merchantName": "Mega Shop"
+    },
+    "bhim": null
+  },
+  {
+    "_id": "DR068",
+    "prefix": "IPNT",
+    "serial_number": "42068",
+    "machine_identifier": "MID-068",
+    "is_active": true,
+    "language": 2,
+    "model": "ET500",
+    "type": "dynamic",
+    "created_at": null,
+    "updated_at": "2026-07-08T10:00:00Z",
+    "gpay": {
+      "merchantId": "GP068",
+      "terminalId": "GT068",
+      "merchantName": "Urban Retail"
+    },
+    "phonepe": null,
+    "paytm": null,
+    "bhim": null
+  },
+  {
+    "_id": "DR069",
+    "prefix": "MD",
+    "serial_number": "42069",
+    "machine_identifier": "MID-069",
+    "is_active": true,
+    "language": 0,
+    "model": "ET389Pro",
+    "type": "static",
+    "created_at": "2026-07-09T10:00:00Z",
+    "updated_at": "2026-07-09T10:00:00Z",
+    "gpay": null,
+    "phonepe": {
+      "merchantId": "PP069",
+      "terminalId": "PT069",
+      "merchantName": "Retail Point"
+    },
+    "paytm": null,
+    "bhim": null
+  },
+  {
+    "_id": "DR070",
+    "prefix": "",
+    "serial_number": "42070",
+    "machine_identifier": "MID-070",
+    "is_active": false,
+    "language": 1,
+    "model": "ET700",
+    "type": "unknown",
+    "created_at": "2012-01-01T00:00:00Z",
+    "updated_at": null,
+    "gpay": null,
+    "phonepe": null,
+    "paytm": {
+      "merchantId": "PY070",
+      "terminalId": "PM070",
+      "merchantName": ""
+    },
+    "bhim": null
+  },
+  
+  {
+    "_id": "DR071",
+    "prefix": "IPNT",
+    "serial_number": "42071",
+    "machine_identifier": "MID-071",
+    "is_active": true,
+    "language": 0,
+    "model": "ET389Pro",
+    "type": "dynamic",
+    "created_at": "2026-07-11T10:00:00Z",
+    "updated_at": "2026-07-11T10:00:00Z",
+    "gpay": {
+      "merchantId": "GP071",
+      "terminalId": "GT071",
+      "merchantName": "Fresh Retail"
+    },
+    "phonepe": null,
+    "paytm": null,
+    "bhim": null
+  },
+  {
+    "_id": "DR072",
+    "prefix": "MD",
+    "serial_number": "42072",
+    "machine_identifier": "MID-072",
+    "is_active": true,
+    "language": 1,
+    "model": "ET390Lite",
+    "type": "static",
+    "created_at": "2026-07-12T10:00:00Z",
+    "updated_at": "2026-07-12T10:00:00Z",
+    "gpay": null,
+    "phonepe": {
+      "merchantId": "PP072",
+      "terminalId": "PT072",
+      "merchantName": "Metro Shop"
+    },
+    "paytm": null,
+    "bhim": null
+  },
+  {
+    "_id": "DR073",
+    "prefix": "IPNT",
+    "serial_number": "42073",
+    "machine_identifier": "MID-073",
+    "is_active": false,
+    "language": 0,
+    "model": "ET389",
+    "type": "dynamic",
+    "created_at": "2026-07-13T10:00:00Z",
+    "updated_at": "2026-07-13T10:00:00Z",
+    "gpay": null,
+    "phonepe": null,
+    "paytm": {
+      "merchantId": "PY073",
+      "terminalId": "PM073",
+      "merchantName": "Retail Point"
+    },
+    "bhim": null
+  },
+  {
+    "_id": "DR074",
+    "prefix": "MD",
+    "serial_number": "42074",
+    "machine_identifier": "MID-074",
+    "is_active": true,
+    "language": 2,
+    "model": "ET500",
+    "type": "static",
+    "created_at": "invalid-date",
+    "updated_at": "2026-07-14T10:00:00Z",
+    "gpay": null,
+    "phonepe": null,
+    "paytm": null,
+    "bhim": {
+      "merchantId": "BH074",
+      "terminalId": "BT074",
+      "merchantName": "Fast Retail"
+    }
+  },
+  {
+    "_id": "DR075",
+    "prefix": "IPNT",
+    "serial_number": null,
+    "machine_identifier": "MID-075",
+    "is_active": true,
+    "language": 0,
+    "model": "ET389Pro",
+    "type": "dynamic",
+    "created_at": "2026-07-15T10:00:00Z",
+    "updated_at": "2026-07-15T10:00:00Z",
+    "gpay": {
+      "merchantId": "GP075",
+      "terminalId": "GT075",
+      "merchantName": "Urban Market"
+    },
+    "phonepe": null,
+    "paytm": null,
+    "bhim": null
+  },
+  {
+    "_id": "DR076",
+    "prefix": "MD",
+    "serial_number": "42076",
+    "machine_identifier": "MID-076",
+    "is_active": true,
+    "language": 1,
+    "model": "ET390Lite",
+    "type": "static",
+    "created_at": "2026-07-16T10:00:00Z",
+    "updated_at": "2026-07-16T10:00:00Z",
+    "gpay": null,
+    "phonepe": null,
+    "paytm": {
+      "merchantId": "PY076",
+      "terminalId": "PM076",
+      "merchantName": "Daily Store"
+    },
+    "bhim": null
+  },
+  {
+    "_id": "DR077",
+    "prefix": "IPNT",
+    "serial_number": "42077",
+    "machine_identifier": "MID-077",
+    "is_active": true,
+    "language": 0,
+    "model": "ET700",
+    "type": "dynamic",
+    "created_at": "2026-07-17T10:00:00Z",
+    "updated_at": "2026-07-17T10:00:00Z",
+    "gpay": {
+      "merchantId": "GP077",
+      "terminalId": "GT077",
+      "merchantName": "Mega Mart"
+    },
+    "phonepe": null,
+    "paytm": null,
+    "bhim": null
+  },
+  {
+    "_id": "DR078",
+    "prefix": "MD",
+    "serial_number": "42078",
+    "machine_identifier": "MID-078",
+    "is_active": true,
+    "language": "english",
+    "model": "ET500",
+    "type": "static",
+    "created_at": "2026-07-18T10:00:00Z",
+    "updated_at": "2026-07-18T10:00:00Z",
+    "gpay": null,
+    "phonepe": {
+      "merchantId": "PP078",
+      "terminalId": "PT078",
+      "merchantName": ""
+    },
+    "paytm": null,
+    "bhim": null
+  },
+  {
+    "_id": "DR079",
+    "prefix": "IPNT",
+    "serial_number": "42079",
+    "machine_identifier": "MID-079",
+    "is_active": true,
+    "language": 0,
+    "model": null,
+    "type": "dynamic",
+    "created_at": "2026-07-19T10:00:00Z",
+    "updated_at": "2026-07-19T10:00:00Z",
+    "gpay": {
+      "merchantId": "GP079",
+      "terminalId": "GT079",
+      "merchantName": "Retail Hub"
+    },
+    "phonepe": null,
+    "paytm": null,
+    "bhim": null
+  },
+  {
+    "_id": "DR080",
+    "prefix": "MD",
+    "serial_number": "42080",
+    "machine_identifier": "MID-080",
+    "is_active": "yes",
+    "language": 1,
+    "model": "ET390Lite",
+    "type": "static",
+    "created_at": "2026-07-20T10:00:00Z",
+    "updated_at": null,
+    "gpay": null,
+    "phonepe": null,
+    "paytm": {
+      "merchantId": "PY080",
+      "terminalId": "PM080",
+      "merchantName": "Market Point"
+    },
+    "bhim": null
+  },
+  
+  {
+    "_id": "DR081",
+    "prefix": "IPNT",
+    "serial_number": "42081",
+    "machine_identifier": "MID-081",
+    "is_active": true,
+    "language": 0,
+    "model": "ET389Pro",
+    "type": "dynamic",
+    "created_at": "2026-07-21T10:00:00Z",
+    "updated_at": "2026-07-21T10:00:00Z",
+    "gpay": {
+      "merchantId": "GP081",
+      "terminalId": "GT081",
+      "merchantName": "Fresh Hub"
+    },
+    "phonepe": null,
+    "paytm": null,
+    "bhim": null
+  },
+  {
+    "_id": "DR082",
+    "prefix": "MD",
+    "serial_number": "42082",
+    "machine_identifier": "MID-082",
+    "is_active": true,
+    "language": 1,
+    "model": "ET390Lite",
+    "type": "static",
+    "created_at": "2026-07-22T10:00:00Z",
+    "updated_at": "2026-07-22T10:00:00Z",
+    "gpay": null,
+    "phonepe": {
+      "merchantId": "PP082",
+      "terminalId": "PT082",
+      "merchantName": "Metro Retail"
+    },
+    "paytm": null,
+    "bhim": null
+  },
+  {
+    "_id": "DR083",
+    "prefix": "IPNT",
+    "serial_number": "42083",
+    "machine_identifier": "MID-083",
+    "is_active": false,
+    "language": 0,
+    "model": "ET389",
+    "type": "dynamic",
+    "created_at": "2026-07-23T10:00:00Z",
+    "updated_at": "2026-07-23T10:00:00Z",
+    "gpay": null,
+    "phonepe": null,
+    "paytm": {
+      "merchantId": "PY083",
+      "terminalId": "PM083",
+      "merchantName": "Retail Point"
+    },
+    "bhim": null
+  },
+  {
+    "_id": "DR084",
+    "prefix": "MD",
+    "serial_number": "42084",
+    "machine_identifier": "MID-084",
+    "is_active": true,
+    "language": 2,
+    "model": "ET500",
+    "type": "static",
+    "created_at": "wrong-date",
+    "updated_at": "2026-07-24T10:00:00Z",
+    "gpay": null,
+    "phonepe": null,
+    "paytm": null,
+    "bhim": {
+      "merchantId": "BH084",
+      "terminalId": "BT084",
+      "merchantName": "Quick Store"
+    }
+  },
+  {
+    "_id": "DR085",
+    "prefix": "IPNT",
+    "serial_number": null,
+    "machine_identifier": "MID-085",
+    "is_active": true,
+    "language": 0,
+    "model": "ET389Pro",
+    "type": "dynamic",
+    "created_at": "2026-07-25T10:00:00Z",
+    "updated_at": "2026-07-25T10:00:00Z",
+    "gpay": {
+      "merchantId": "GP085",
+      "terminalId": "GT085",
+      "merchantName": "Urban Store"
+    },
+    "phonepe": null,
+    "paytm": null,
+    "bhim": null
+  },
+  {
+    "_id": "DR086",
+    "prefix": "MD",
+    "serial_number": "42086",
+    "machine_identifier": "MID-086",
+    "is_active": true,
+    "language": 1,
+    "model": "ET390Lite",
+    "type": "static",
+    "created_at": "2026-07-26T10:00:00Z",
+    "updated_at": "2026-07-26T10:00:00Z",
+    "gpay": null,
+    "phonepe": null,
+    "paytm": {
+      "merchantId": "PY086",
+      "terminalId": "PM086",
+      "merchantName": "Retail Shop"
+    },
+    "bhim": null
+  },
+  {
+    "_id": "DR087",
+    "prefix": "IPNT",
+    "serial_number": "42087",
+    "machine_identifier": "MID-087",
+    "is_active": true,
+    "language": 0,
+    "model": "ET700",
+    "type": "dynamic",
+    "created_at": "2026-07-27T10:00:00Z",
+    "updated_at": "2026-07-27T10:00:00Z",
+    "gpay": {
+      "merchantId": "GP087",
+      "terminalId": "GT087",
+      "merchantName": "Mega Retail"
+    },
+    "phonepe": null,
+    "paytm": null,
+    "bhim": null
+  },
+  {
+    "_id": "DR088",
+    "prefix": "MD",
+    "serial_number": "42088",
+    "machine_identifier": "MID-088",
+    "is_active": true,
+    "language": "english",
+    "model": "ET500",
+    "type": "static",
+    "created_at": "2026-07-28T10:00:00Z",
+    "updated_at": "2026-07-28T10:00:00Z",
+    "gpay": null,
+    "phonepe": {
+      "merchantId": "PP088",
+      "terminalId": "PT088",
+      "merchantName": ""
+    },
+    "paytm": null,
+    "bhim": null
+  },
+  {
+    "_id": "DR089",
+    "prefix": "IPNT",
+    "serial_number": "42089",
+    "machine_identifier": "MID-089",
+    "is_active": true,
+    "language": 0,
+    "model": null,
+    "type": "dynamic",
+    "created_at": "2026-07-29T10:00:00Z",
+    "updated_at": "2026-07-29T10:00:00Z",
+    "gpay": {
+      "merchantId": "GP089",
+      "terminalId": "GT089",
+      "merchantName": "Daily Mart"
+    },
+    "phonepe": null,
+    "paytm": null,
+    "bhim": null
+  },
+  {
+    "_id": "DR090",
+    "prefix": "MD",
+    "serial_number": "42090",
+    "machine_identifier": "MID-090",
+    "is_active": "yes",
+    "language": 1,
+    "model": "ET390Lite",
+    "type": "static",
+    "created_at": "2026-07-30T10:00:00Z",
+    "updated_at": null,
+    "gpay": null,
+    "phonepe": null,
+    "paytm": {
+      "merchantId": "PY090",
+      "terminalId": "PM090",
+      "merchantName": "Retail Zone"
+    },
+    "bhim": null
+  },
+  
+  {
+    "_id": "DR091",
+    "prefix": "IPNT",
+    "serial_number": "42091",
+    "machine_identifier": "MID-091",
+    "is_active": true,
+    "language": 0,
+    "model": "ET389Pro",
+    "type": "dynamic",
+    "created_at": "2026-07-31T10:00:00Z",
+    "updated_at": "2026-07-31T10:00:00Z",
+    "gpay": {
+      "merchantId": "GP091",
+      "terminalId": "GT091",
+      "merchantName": "City Retail"
+    },
+    "phonepe": null,
+    "paytm": null,
+    "bhim": null
+  },
+  {
+    "_id": "DR092",
+    "prefix": "MD",
+    "serial_number": "42092",
+    "machine_identifier": "MID-092",
+    "is_active": true,
+    "language": 1,
+    "model": "ET390Lite",
+    "type": "static",
+    "created_at": "2026-08-01T10:00:00Z",
+    "updated_at": "2026-08-01T10:00:00Z",
+    "gpay": null,
+    "phonepe": {
+      "merchantId": "PP092",
+      "terminalId": "PT092",
+      "merchantName": "Metro Hub"
+    },
+    "paytm": null,
+    "bhim": null
+  },
+  {
+    "_id": "DR093",
+    "prefix": "IPNT",
+    "serial_number": "42093",
+    "machine_identifier": "MID-093",
+    "is_active": false,
+    "language": 0,
+    "model": "ET389",
+    "type": "dynamic",
+    "created_at": "2026-08-02T10:00:00Z",
+    "updated_at": "2026-08-02T10:00:00Z",
+    "gpay": null,
+    "phonepe": null,
+    "paytm": {
+      "merchantId": "PY093",
+      "terminalId": "PM093",
+      "merchantName": "Retail Corner"
+    },
+    "bhim": null
+  },
+  {
+    "_id": "DR094",
+    "prefix": "MD",
+    "serial_number": "42094",
+    "machine_identifier": "MID-094",
+    "is_active": true,
+    "language": 2,
+    "model": "ET500",
+    "type": "static",
+    "created_at": "invalid-date",
+    "updated_at": "2026-08-03T10:00:00Z",
+    "gpay": null,
+    "phonepe": null,
+    "paytm": null,
+    "bhim": {
+      "merchantId": "BH094",
+      "terminalId": "BT094",
+      "merchantName": "Quick Hub"
+    }
+  },
+  {
+    "_id": "DR095",
+    "prefix": "IPNT",
+    "serial_number": null,
+    "machine_identifier": "MID-095",
+    "is_active": true,
+    "language": 0,
+    "model": "ET389Pro",
+    "type": "dynamic",
+    "created_at": "2026-08-04T10:00:00Z",
+    "updated_at": "2026-08-04T10:00:00Z",
+    "gpay": {
+      "merchantId": "GP095",
+      "terminalId": "GT095",
+      "merchantName": "Urban Retail"
+    },
+    "phonepe": null,
+    "paytm": null,
+    "bhim": null
+  },
+  {
+    "_id": "DR096",
+    "prefix": "MD",
+    "serial_number": "42096",
+    "machine_identifier": "MID-096",
+    "is_active": true,
+    "language": 1,
+    "model": "ET390Lite",
+    "type": "static",
+    "created_at": "2026-08-05T10:00:00Z",
+    "updated_at": "2026-08-05T10:00:00Z",
+    "gpay": null,
+    "phonepe": null,
+    "paytm": {
+      "merchantId": "PY096",
+      "terminalId": "PM096",
+      "merchantName": "Retail Point"
+    },
+    "bhim": null
+  },
+  {
+    "_id": "DR097",
+    "prefix": "IPNT",
+    "serial_number": "42097",
+    "machine_identifier": "MID-097",
+    "is_active": true,
+    "language": 0,
+    "model": "ET700",
+    "type": "dynamic",
+    "created_at": "2026-08-06T10:00:00Z",
+    "updated_at": "2026-08-06T10:00:00Z",
+    "gpay": {
+      "merchantId": "GP097",
+      "terminalId": "GT097",
+      "merchantName": "Mega Hub"
+    },
+    "phonepe": null,
+    "paytm": null,
+    "bhim": null
+  },
+  {
+    "_id": "DR098",
+    "prefix": "MD",
+    "serial_number": "42098",
+    "machine_identifier": "MID-098",
+    "is_active": true,
+    "language": "english",
+    "model": "ET500",
+    "type": "static",
+    "created_at": "2026-08-07T10:00:00Z",
+    "updated_at": "2026-08-07T10:00:00Z",
+    "gpay": null,
+    "phonepe": {
+      "merchantId": "PP098",
+      "terminalId": "PT098",
+      "merchantName": ""
+    },
+    "paytm": null,
+    "bhim": null
+  },
+  {
+    "_id": "DR099",
+    "prefix": "IPNT",
+    "serial_number": "42099",
+    "machine_identifier": "MID-099",
+    "is_active": true,
+    "language": 0,
+    "model": null,
+    "type": "dynamic",
+    "created_at": "2026-08-08T10:00:00Z",
+    "updated_at": "2026-08-08T10:00:00Z",
+    "gpay": {
+      "merchantId": "GP099",
+      "terminalId": "GT099",
+      "merchantName": "Retail Mart"
+    },
+    "phonepe": null,
+    "paytm": null,
+    "bhim": null
+  },
+  {
+    "_id": "DR100",
+    "prefix": "MD",
+    "serial_number": "42100",
+    "machine_identifier": "MID-100",
+    "is_active": "yes",
+    "language": 1,
+    "model": "ET390Lite",
+    "type": "static",
+    "created_at": "2026-08-09T10:00:00Z",
+    "updated_at": null,
+    "gpay": null,
+    "phonepe": null,
+    "paytm": {
+      "merchantId": "PY100",
+      "terminalId": "PM100",
+      "merchantName": "Retail Market"
+    },
+    "bhim": null
+  }
+
+]
+
+
+
+
+
+
+

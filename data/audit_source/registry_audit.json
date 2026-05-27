@@ -1,0 +1,1548 @@
+[
+  {
+    "_id": "AUD001",
+    "status": "SUCCESS",
+    "amount": 1200.50,
+    "scheme": "gpay",
+    "machine_identifier": "MID-001",
+
+    "device": {
+      "prefix": "IPNT",
+      "serial_number": "42001",
+      "model": "ET389Pro A10",
+      "type": "dynamic",
+      "service_type": "PAYMENT"
+    },
+
+    "created_at": "2026-08-01T10:00:00Z"
+  },
+
+  {
+    "_id": "AUD002",
+    "status": "PENDING",
+    "amount": 850.75,
+    "scheme": "phonepe",
+    "machine_identifier": "MID-002",
+
+    "device": {
+      "prefix": "MD",
+      "serial_number": "42002",
+      "model": "ET390Lite",
+      "type": "static",
+      "service_type": "NOTIFY"
+    },
+
+    "created_at": "2026-08-01T11:00:00Z"
+  },
+
+  {
+    "_id": "AUD003",
+    "status": "FAILED",
+    "amount": 400.25,
+    "scheme": "paytm",
+    "machine_identifier": "MID-003",
+
+    "device": {
+      "prefix": "IPNT",
+      "serial_number": "42003",
+      "model": "ET389",
+      "type": "dynamic",
+      "service_type": "PAYMENT"
+    },
+
+    "created_at": "2026-08-01T12:00:00Z"
+  },
+
+  {
+    "_id": "AUD004",
+    "status": "SUCCESS",
+    "amount": 2200.99,
+    "scheme": "bhim",
+    "machine_identifier": "MID-004",
+
+    "device": {
+      "prefix": "IPNT",
+      "serial_number": "42004",
+      "model": "ET500",
+      "type": "static",
+      "service_type": "NOTIFY"
+    },
+
+    "created_at": "invalid-date"
+  },
+
+  {
+    "_id": "AUD005",
+    "status": "FIRED",
+    "amount": 1048.40,
+    "scheme": "fonepay",
+    "machine_identifier": "MID-005",
+
+    "device": {
+      "prefix": "IPNT",
+      "serial_number": null,
+      "model": "ET389Pro A10",
+      "type": "dynamic",
+      "service_type": "PAYMENT"
+    },
+
+    "created_at": "2026-08-01T14:00:00Z"
+  },
+
+  {
+    "_id": "AUD006",
+    "status": "SUCCESS",
+    "amount": null,
+    "scheme": "gpay",
+    "machine_identifier": "MID-006",
+
+    "device": {
+      "prefix": "MD",
+      "serial_number": "42006",
+      "model": "ET390Lite",
+      "type": "static",
+      "service_type": "PAYMENT"
+    },
+
+    "created_at": "2026-08-01T15:00:00Z"
+  },
+
+  {
+    "_id": "AUD007",
+    "status": "SUCCESS",
+    "amount": 1800.80,
+    "scheme": "phonepe",
+    "machine_identifier": "MID-007",
+
+    "device": {
+      "prefix": "IPNT",
+      "serial_number": "42007",
+      "model": "ET700",
+      "type": "dynamic",
+      "service_type": "PAYMENT"
+    },
+
+    "created_at": null
+  },
+
+  {
+    "_id": "AUD008",
+    "status": "FAILED",
+    "amount": 920.45,
+    "scheme": "paytm",
+    "machine_identifier": "MID-008",
+
+    "device": {
+      "prefix": "MD",
+      "serial_number": "42008",
+      "model": "ET389",
+      "type": "static",
+      "service_type": "NOTIFY"
+    },
+
+    "created_at": "2026-08-01T17:00:00Z"
+  },
+
+  {
+    "_id": "AUD009",
+    "status": "PENDING",
+    "amount": "760.90",
+    "scheme": "bhim",
+    "machine_identifier": "MID-009",
+
+    "device": {
+      "prefix": "IPNT",
+      "serial_number": "42009",
+      "model": null,
+      "type": "dynamic",
+      "service_type": "PAYMENT"
+    },
+
+    "created_at": "2026-08-01T18:00:00Z"
+  },
+
+  {
+    "_id": "AUD010",
+    "status": "SUCCESS",
+    "amount": 1500.10,
+    "scheme": "gpay",
+    "machine_identifier": "MID-010",
+
+    "device": {
+      "prefix": "MD",
+      "serial_number": "42010",
+      "model": "ET390Lite",
+      "type": "static",
+      "service_type": "PAYMENT"
+    },
+
+    "created_at": "2026-08-01T19:00:00Z"
+  },
+  
+  {
+    "_id": "AUD011",
+    "status": "SUCCESS",
+    "amount": 2100.50,
+    "scheme": "gpay",
+    "machine_identifier": "MID-011",
+    "device": {
+      "prefix": "IPNT",
+      "serial_number": "42011",
+      "model": "ET389Pro",
+      "type": "dynamic",
+      "service_type": "PAYMENT"
+    },
+    "created_at": "2026-08-02T10:00:00Z"
+  },
+  {
+    "_id": "AUD012",
+    "status": "PENDING",
+    "amount": 980.75,
+    "scheme": "phonepe",
+    "machine_identifier": "MID-012",
+    "device": {
+      "prefix": "MD",
+      "serial_number": "42012",
+      "model": "ET500",
+      "type": "static",
+      "service_type": "NOTIFY"
+    },
+    "created_at": "2026-08-02T11:00:00Z"
+  },
+  {
+    "_id": "AUD013",
+    "status": "FAILED",
+    "amount": 450.30,
+    "scheme": "paytm",
+    "machine_identifier": "MID-013",
+    "device": {
+      "prefix": "IPNT",
+      "serial_number": "42013",
+      "model": "ET389",
+      "type": "dynamic",
+      "service_type": "PAYMENT"
+    },
+    "created_at": "2026-08-02T12:00:00Z"
+  },
+  {
+    "_id": "AUD014",
+    "status": "SUCCESS",
+    "amount": 3200.20,
+    "scheme": "bhim",
+    "machine_identifier": "MID-014",
+    "device": {
+      "prefix": "MD",
+      "serial_number": "42014",
+      "model": "ET700",
+      "type": "static",
+      "service_type": "NOTIFY"
+    },
+    "created_at": "wrong-date"
+  },
+  {
+    "_id": "AUD015",
+    "status": "FIRED",
+    "amount": 1111.99,
+    "scheme": "fonepay",
+    "machine_identifier": "MID-015",
+    "device": {
+      "prefix": "IPNT",
+      "serial_number": null,
+      "model": "ET389Pro",
+      "type": "dynamic",
+      "service_type": "PAYMENT"
+    },
+    "created_at": "2026-08-02T14:00:00Z"
+  },
+  {
+    "_id": "AUD016",
+    "status": "SUCCESS",
+    "amount": null,
+    "scheme": "gpay",
+    "machine_identifier": "MID-016",
+    "device": {
+      "prefix": "MD",
+      "serial_number": "42016",
+      "model": "ET390Lite",
+      "type": "static",
+      "service_type": "PAYMENT"
+    },
+    "created_at": "2026-08-02T15:00:00Z"
+  },
+  {
+    "_id": "AUD017",
+    "status": "SUCCESS",
+    "amount": 1999.95,
+    "scheme": "phonepe",
+    "machine_identifier": "MID-017",
+    "device": {
+      "prefix": "IPNT",
+      "serial_number": "42017",
+      "model": "ET389",
+      "type": "dynamic",
+      "service_type": "PAYMENT"
+    },
+    "created_at": null
+  },
+  {
+    "_id": "AUD018",
+    "status": "FAILED",
+    "amount": 875.25,
+    "scheme": "paytm",
+    "machine_identifier": "MID-018",
+    "device": {
+      "prefix": "MD",
+      "serial_number": "42018",
+      "model": "ET700",
+      "type": "static",
+      "service_type": "NOTIFY"
+    },
+    "created_at": "2026-08-02T17:00:00Z"
+  },
+  {
+    "_id": "AUD019",
+    "status": "PENDING",
+    "amount": "760.40",
+    "scheme": "bhim",
+    "machine_identifier": "MID-019",
+    "device": {
+      "prefix": "IPNT",
+      "serial_number": "42019",
+      "model": null,
+      "type": "dynamic",
+      "service_type": "PAYMENT"
+    },
+    "created_at": "2026-08-02T18:00:00Z"
+  },
+  {
+    "_id": "AUD020",
+    "status": "SUCCESS",
+    "amount": 1750.10,
+    "scheme": "gpay",
+    "machine_identifier": "MID-020",
+    "device": {
+      "prefix": "MD",
+      "serial_number": "42020",
+      "model": "ET390Lite",
+      "type": "static",
+      "service_type": "PAYMENT"
+    },
+    "created_at": "2026-08-02T19:00:00Z"
+  },
+  
+  {
+    "_id": "AUD021",
+    "status": "SUCCESS",
+    "amount": 2450.60,
+    "scheme": "gpay",
+    "machine_identifier": "MID-021",
+    "device": {
+      "prefix": "IPNT",
+      "serial_number": "42021",
+      "model": "ET389Pro",
+      "type": "dynamic",
+      "service_type": "PAYMENT"
+    },
+    "created_at": "2026-08-03T10:00:00Z"
+  },
+  {
+    "_id": "AUD022",
+    "status": "PENDING",
+    "amount": 990.80,
+    "scheme": "phonepe",
+    "machine_identifier": "MID-022",
+    "device": {
+      "prefix": "MD",
+      "serial_number": "42022",
+      "model": "ET390Lite",
+      "type": "static",
+      "service_type": "NOTIFY"
+    },
+    "created_at": "2026-08-03T11:00:00Z"
+  },
+  {
+    "_id": "AUD023",
+    "status": "FAILED",
+    "amount": 520.35,
+    "scheme": "paytm",
+    "machine_identifier": "MID-023",
+    "device": {
+      "prefix": "IPNT",
+      "serial_number": "42023",
+      "model": "ET500",
+      "type": "dynamic",
+      "service_type": "PAYMENT"
+    },
+    "created_at": "2026-08-03T12:00:00Z"
+  },
+  {
+    "_id": "AUD024",
+    "status": "SUCCESS",
+    "amount": 3400.45,
+    "scheme": "bhim",
+    "machine_identifier": "MID-024",
+    "device": {
+      "prefix": "MD",
+      "serial_number": "42024",
+      "model": "ET700",
+      "type": "static",
+      "service_type": "NOTIFY"
+    },
+    "created_at": "invalid-date"
+  },
+  {
+    "_id": "AUD025",
+    "status": "FIRED",
+    "amount": 1250.90,
+    "scheme": "fonepay",
+    "machine_identifier": "MID-025",
+    "device": {
+      "prefix": "IPNT",
+      "serial_number": null,
+      "model": "ET389Pro",
+      "type": "dynamic",
+      "service_type": "PAYMENT"
+    },
+    "created_at": "2026-08-03T14:00:00Z"
+  },
+  {
+    "_id": "AUD026",
+    "status": "SUCCESS",
+    "amount": null,
+    "scheme": "gpay",
+    "machine_identifier": "MID-026",
+    "device": {
+      "prefix": "MD",
+      "serial_number": "42026",
+      "model": "ET390Lite",
+      "type": "static",
+      "service_type": "PAYMENT"
+    },
+    "created_at": "2026-08-03T15:00:00Z"
+  },
+  {
+    "_id": "AUD027",
+    "status": "SUCCESS",
+    "amount": 2125.55,
+    "scheme": "phonepe",
+    "machine_identifier": "MID-027",
+    "device": {
+      "prefix": "IPNT",
+      "serial_number": "42027",
+      "model": "ET389",
+      "type": "dynamic",
+      "service_type": "PAYMENT"
+    },
+    "created_at": null
+  },
+  {
+    "_id": "AUD028",
+    "status": "FAILED",
+    "amount": 930.40,
+    "scheme": "paytm",
+    "machine_identifier": "MID-028",
+    "device": {
+      "prefix": "MD",
+      "serial_number": "42028",
+      "model": "ET700",
+      "type": "static",
+      "service_type": "NOTIFY"
+    },
+    "created_at": "2026-08-03T17:00:00Z"
+  },
+  {
+    "_id": "AUD029",
+    "status": "PENDING",
+    "amount": "810.25",
+    "scheme": "bhim",
+    "machine_identifier": "MID-029",
+    "device": {
+      "prefix": "IPNT",
+      "serial_number": "42029",
+      "model": null,
+      "type": "dynamic",
+      "service_type": "PAYMENT"
+    },
+    "created_at": "2026-08-03T18:00:00Z"
+  },
+  {
+    "_id": "AUD030",
+    "status": "SUCCESS",
+    "amount": 1825.75,
+    "scheme": "gpay",
+    "machine_identifier": "MID-030",
+    "device": {
+      "prefix": "MD",
+      "serial_number": "42030",
+      "model": "ET390Lite",
+      "type": "static",
+      "service_type": "PAYMENT"
+    },
+    "created_at": "2026-08-03T19:00:00Z"
+  },
+  
+  {
+    "_id": "AUD031",
+    "status": "SUCCESS",
+    "amount": 2550.65,
+    "scheme": "gpay",
+    "machine_identifier": "MID-031",
+    "device": {
+      "prefix": "IPNT",
+      "serial_number": "42031",
+      "model": "ET389Pro",
+      "type": "dynamic",
+      "service_type": "PAYMENT"
+    },
+    "created_at": "2026-08-04T10:00:00Z"
+  },
+  {
+    "_id": "AUD032",
+    "status": "PENDING",
+    "amount": 1050.20,
+    "scheme": "phonepe",
+    "machine_identifier": "MID-032",
+    "device": {
+      "prefix": "MD",
+      "serial_number": "42032",
+      "model": "ET390Lite",
+      "type": "static",
+      "service_type": "NOTIFY"
+    },
+    "created_at": "2026-08-04T11:00:00Z"
+  },
+  {
+    "_id": "AUD033",
+    "status": "FAILED",
+    "amount": 610.90,
+    "scheme": "paytm",
+    "machine_identifier": "MID-033",
+    "device": {
+      "prefix": "IPNT",
+      "serial_number": "42033",
+      "model": "ET389",
+      "type": "dynamic",
+      "service_type": "PAYMENT"
+    },
+    "created_at": "2026-08-04T12:00:00Z"
+  },
+  {
+    "_id": "AUD034",
+    "status": "SUCCESS",
+    "amount": 3600.50,
+    "scheme": "bhim",
+    "machine_identifier": "MID-034",
+    "device": {
+      "prefix": "MD",
+      "serial_number": "42034",
+      "model": "ET500",
+      "type": "static",
+      "service_type": "NOTIFY"
+    },
+    "created_at": "wrong-date"
+  },
+  {
+    "_id": "AUD035",
+    "status": "FIRED",
+    "amount": 1325.10,
+    "scheme": "fonepay",
+    "machine_identifier": "MID-035",
+    "device": {
+      "prefix": "IPNT",
+      "serial_number": null,
+      "model": "ET389Pro",
+      "type": "dynamic",
+      "service_type": "PAYMENT"
+    },
+    "created_at": "2026-08-04T14:00:00Z"
+  },
+  {
+    "_id": "AUD036",
+    "status": "SUCCESS",
+    "amount": null,
+    "scheme": "gpay",
+    "machine_identifier": "MID-036",
+    "device": {
+      "prefix": "MD",
+      "serial_number": "42036",
+      "model": "ET390Lite",
+      "type": "static",
+      "service_type": "PAYMENT"
+    },
+    "created_at": "2026-08-04T15:00:00Z"
+  },
+  {
+    "_id": "AUD037",
+    "status": "SUCCESS",
+    "amount": 2200.35,
+    "scheme": "phonepe",
+    "machine_identifier": "MID-037",
+    "device": {
+      "prefix": "IPNT",
+      "serial_number": "42037",
+      "model": "ET700",
+      "type": "dynamic",
+      "service_type": "PAYMENT"
+    },
+    "created_at": null
+  },
+  {
+    "_id": "AUD038",
+    "status": "FAILED",
+    "amount": 980.80,
+    "scheme": "paytm",
+    "machine_identifier": "MID-038",
+    "device": {
+      "prefix": "MD",
+      "serial_number": "42038",
+      "model": "ET500",
+      "type": "static",
+      "service_type": "NOTIFY"
+    },
+    "created_at": "2026-08-04T17:00:00Z"
+  },
+  {
+    "_id": "AUD039",
+    "status": "PENDING",
+    "amount": "920.70",
+    "scheme": "bhim",
+    "machine_identifier": "MID-039",
+    "device": {
+      "prefix": "IPNT",
+      "serial_number": "42039",
+      "model": null,
+      "type": "dynamic",
+      "service_type": "PAYMENT"
+    },
+    "created_at": "2026-08-04T18:00:00Z"
+  },
+  {
+    "_id": "AUD040",
+    "status": "SUCCESS",
+    "amount": 1990.95,
+    "scheme": "gpay",
+    "machine_identifier": "MID-040",
+    "device": {
+      "prefix": "MD",
+      "serial_number": "42040",
+      "model": "ET390Lite",
+      "type": "static",
+      "service_type": "PAYMENT"
+    },
+    "created_at": "2026-08-04T19:00:00Z"
+  },
+  
+  {
+    "_id": "AUD041",
+    "status": "SUCCESS",
+    "amount": 2650.45,
+    "scheme": "gpay",
+    "machine_identifier": "MID-041",
+    "device": {
+      "prefix": "IPNT",
+      "serial_number": "42041",
+      "model": "ET389Pro",
+      "type": "dynamic",
+      "service_type": "PAYMENT"
+    },
+    "created_at": "2026-08-05T10:00:00Z"
+  },
+  {
+    "_id": "AUD042",
+    "status": "PENDING",
+    "amount": 1120.55,
+    "scheme": "phonepe",
+    "machine_identifier": "MID-042",
+    "device": {
+      "prefix": "MD",
+      "serial_number": "42042",
+      "model": "ET390Lite",
+      "type": "static",
+      "service_type": "NOTIFY"
+    },
+    "created_at": "2026-08-05T11:00:00Z"
+  },
+  {
+    "_id": "AUD043",
+    "status": "FAILED",
+    "amount": 710.35,
+    "scheme": "paytm",
+    "machine_identifier": "MID-043",
+    "device": {
+      "prefix": "IPNT",
+      "serial_number": "42043",
+      "model": "ET389",
+      "type": "dynamic",
+      "service_type": "PAYMENT"
+    },
+    "created_at": "2026-08-05T12:00:00Z"
+  },
+  {
+    "_id": "AUD044",
+    "status": "SUCCESS",
+    "amount": 3820.90,
+    "scheme": "bhim",
+    "machine_identifier": "MID-044",
+    "device": {
+      "prefix": "MD",
+      "serial_number": "42044",
+      "model": "ET700",
+      "type": "static",
+      "service_type": "NOTIFY"
+    },
+    "created_at": "invalid-date"
+  },
+  {
+    "_id": "AUD045",
+    "status": "FIRED",
+    "amount": 1425.65,
+    "scheme": "fonepay",
+    "machine_identifier": "MID-045",
+    "device": {
+      "prefix": "IPNT",
+      "serial_number": null,
+      "model": "ET389Pro",
+      "type": "dynamic",
+      "service_type": "PAYMENT"
+    },
+    "created_at": "2026-08-05T14:00:00Z"
+  },
+  {
+    "_id": "AUD046",
+    "status": "SUCCESS",
+    "amount": null,
+    "scheme": "gpay",
+    "machine_identifier": "MID-046",
+    "device": {
+      "prefix": "MD",
+      "serial_number": "42046",
+      "model": "ET390Lite",
+      "type": "static",
+      "service_type": "PAYMENT"
+    },
+    "created_at": "2026-08-05T15:00:00Z"
+  },
+  {
+    "_id": "AUD047",
+    "status": "SUCCESS",
+    "amount": 2350.25,
+    "scheme": "phonepe",
+    "machine_identifier": "MID-047",
+    "device": {
+      "prefix": "IPNT",
+      "serial_number": "42047",
+      "model": "ET700",
+      "type": "dynamic",
+      "service_type": "PAYMENT"
+    },
+    "created_at": null
+  },
+  {
+    "_id": "AUD048",
+    "status": "FAILED",
+    "amount": 1020.10,
+    "scheme": "paytm",
+    "machine_identifier": "MID-048",
+    "device": {
+      "prefix": "MD",
+      "serial_number": "42048",
+      "model": "ET500",
+      "type": "static",
+      "service_type": "NOTIFY"
+    },
+    "created_at": "2026-08-05T17:00:00Z"
+  },
+  {
+    "_id": "AUD049",
+    "status": "PENDING",
+    "amount": "980.80",
+    "scheme": "bhim",
+    "machine_identifier": "MID-049",
+    "device": {
+      "prefix": "IPNT",
+      "serial_number": "42049",
+      "model": null,
+      "type": "dynamic",
+      "service_type": "PAYMENT"
+    },
+    "created_at": "2026-08-05T18:00:00Z"
+  },
+  {
+    "_id": "AUD050",
+    "status": "SUCCESS",
+    "amount": 2100.95,
+    "scheme": "gpay",
+    "machine_identifier": "MID-050",
+    "device": {
+      "prefix": "MD",
+      "serial_number": "42050",
+      "model": "ET390Lite",
+      "type": "static",
+      "service_type": "PAYMENT"
+    },
+    "created_at": "2026-08-05T19:00:00Z"
+  },
+  
+  {
+    "_id": "AUD051",
+    "status": "SUCCESS",
+    "amount": 2750.15,
+    "scheme": "gpay",
+    "machine_identifier": "MID-051",
+    "device": {
+      "prefix": "IPNT",
+      "serial_number": "42051",
+      "model": "ET389Pro",
+      "type": "dynamic",
+      "service_type": "PAYMENT"
+    },
+    "created_at": "2026-08-06T10:00:00Z"
+  },
+  {
+    "_id": "AUD052",
+    "status": "PENDING",
+    "amount": 1180.35,
+    "scheme": "phonepe",
+    "machine_identifier": "MID-052",
+    "device": {
+      "prefix": "MD",
+      "serial_number": "42052",
+      "model": "ET390Lite",
+      "type": "static",
+      "service_type": "NOTIFY"
+    },
+    "created_at": "2026-08-06T11:00:00Z"
+  },
+  {
+    "_id": "AUD053",
+    "status": "FAILED",
+    "amount": 760.45,
+    "scheme": "paytm",
+    "machine_identifier": "MID-053",
+    "device": {
+      "prefix": "IPNT",
+      "serial_number": "42053",
+      "model": "ET389",
+      "type": "dynamic",
+      "service_type": "PAYMENT"
+    },
+    "created_at": "2026-08-06T12:00:00Z"
+  },
+  {
+    "_id": "AUD054",
+    "status": "SUCCESS",
+    "amount": 3950.85,
+    "scheme": "bhim",
+    "machine_identifier": "MID-054",
+    "device": {
+      "prefix": "MD",
+      "serial_number": "42054",
+      "model": "ET700",
+      "type": "static",
+      "service_type": "NOTIFY"
+    },
+    "created_at": "wrong-date"
+  },
+  {
+    "_id": "AUD055",
+    "status": "FIRED",
+    "amount": 1510.60,
+    "scheme": "fonepay",
+    "machine_identifier": "MID-055",
+    "device": {
+      "prefix": "IPNT",
+      "serial_number": null,
+      "model": "ET389Pro",
+      "type": "dynamic",
+      "service_type": "PAYMENT"
+    },
+    "created_at": "2026-08-06T14:00:00Z"
+  },
+  {
+    "_id": "AUD056",
+    "status": "SUCCESS",
+    "amount": null,
+    "scheme": "gpay",
+    "machine_identifier": "MID-056",
+    "device": {
+      "prefix": "MD",
+      "serial_number": "42056",
+      "model": "ET390Lite",
+      "type": "static",
+      "service_type": "PAYMENT"
+    },
+    "created_at": "2026-08-06T15:00:00Z"
+  },
+  {
+    "_id": "AUD057",
+    "status": "SUCCESS",
+    "amount": 2420.95,
+    "scheme": "phonepe",
+    "machine_identifier": "MID-057",
+    "device": {
+      "prefix": "IPNT",
+      "serial_number": "42057",
+      "model": "ET700",
+      "type": "dynamic",
+      "service_type": "PAYMENT"
+    },
+    "created_at": null
+  },
+  {
+    "_id": "AUD058",
+    "status": "FAILED",
+    "amount": 1080.75,
+    "scheme": "paytm",
+    "machine_identifier": "MID-058",
+    "device": {
+      "prefix": "MD",
+      "serial_number": "42058",
+      "model": "ET500",
+      "type": "static",
+      "service_type": "NOTIFY"
+    },
+    "created_at": "2026-08-06T17:00:00Z"
+  },
+  {
+    "_id": "AUD059",
+    "status": "PENDING",
+    "amount": "1025.40",
+    "scheme": "bhim",
+    "machine_identifier": "MID-059",
+    "device": {
+      "prefix": "IPNT",
+      "serial_number": "42059",
+      "model": null,
+      "type": "dynamic",
+      "service_type": "PAYMENT"
+    },
+    "created_at": "2026-08-06T18:00:00Z"
+  },
+  {
+    "_id": "AUD060",
+    "status": "SUCCESS",
+    "amount": 2250.55,
+    "scheme": "gpay",
+    "machine_identifier": "MID-060",
+    "device": {
+      "prefix": "MD",
+      "serial_number": "42060",
+      "model": "ET390Lite",
+      "type": "static",
+      "service_type": "PAYMENT"
+    },
+    "created_at": "2026-08-06T19:00:00Z"
+  },
+  
+  {
+    "_id": "AUD061",
+    "status": "SUCCESS",
+    "amount": 2850.35,
+    "scheme": "gpay",
+    "machine_identifier": "MID-061",
+    "device": {
+      "prefix": "IPNT",
+      "serial_number": "42061",
+      "model": "ET700",
+      "type": "unknown-device",
+      "service_type": "PAYMENT"
+    },
+    "created_at": null
+  },
+  {
+    "_id": "AUD062",
+    "status": "PENDING",
+    "amount": 1250.60,
+    "scheme": "phonepe",
+    "machine_identifier": "MID-062",
+    "device": {
+      "prefix": "MD",
+      "serial_number": "42062",
+      "model": "ET389Pro",
+      "type": "dynamic",
+      "service_type": "NOTIFY"
+    },
+    "created_at": "2026-08-07T11:00:00Z"
+  },
+  {
+    "_id": "AUD063",
+    "status": "FAILED",
+    "amount": 810.40,
+    "scheme": "paytm",
+    "machine_identifier": "MID-063",
+    "device": {
+      "prefix": "",
+      "serial_number": "42063",
+      "model": "ET500",
+      "type": "static",
+      "service_type": "PAYMENT"
+    },
+    "created_at": "2010-01-01T00:00:00Z"
+  },
+  {
+    "_id": "AUD064",
+    "status": "SUCCESS",
+    "amount": 4050.20,
+    "scheme": "bhim",
+    "machine_identifier": "MID-064",
+    "device": {
+      "prefix": "IPNT",
+      "serial_number": "42064",
+      "model": null,
+      "type": "dynamic",
+      "service_type": "NOTIFY"
+    },
+    "created_at": "invalid-date"
+  },
+  {
+    "_id": "AUD065",
+    "status": "FIRED",
+    "amount": 1620.75,
+    "scheme": "fonepay",
+    "machine_identifier": "MID-065",
+    "device": {
+      "prefix": "MD",
+      "serial_number": null,
+      "model": "ET390Lite",
+      "type": "static",
+      "service_type": "PAYMENT"
+    },
+    "created_at": "2026-08-07T14:00:00Z"
+  },
+  {
+    "_id": "AUD066",
+    "status": "SUCCESS",
+    "amount": null,
+    "scheme": "gpay",
+    "machine_identifier": "MID-066",
+    "device": {
+      "prefix": "IPNT",
+      "serial_number": "42066",
+      "model": "ET700",
+      "type": "dynamic",
+      "service_type": "PAYMENT"
+    },
+    "created_at": "2026-08-07T15:00:00Z"
+  },
+  {
+    "_id": "AUD067",
+    "status": "SUCCESS",
+    "amount": 2550.90,
+    "scheme": "phonepe",
+    "machine_identifier": "MID-067",
+    "device": {
+      "prefix": "MD",
+      "serial_number": "42067",
+      "model": "ET389",
+      "type": "static",
+      "service_type": "PAYMENT"
+    },
+    "created_at": null
+  },
+  {
+    "_id": "AUD068",
+    "status": "FAILED",
+    "amount": 1125.45,
+    "scheme": "paytm",
+    "machine_identifier": "MID-068",
+    "device": {
+      "prefix": "IPNT",
+      "serial_number": "42068",
+      "model": "ET500",
+      "type": "dynamic",
+      "service_type": "NOTIFY"
+    },
+    "created_at": null
+  },
+  {
+    "_id": "AUD069",
+    "status": "PENDING",
+    "amount": "1180.55",
+    "scheme": "bhim",
+    "machine_identifier": "MID-069",
+    "device": {
+      "prefix": "MD",
+      "serial_number": "42069",
+      "model": "ET389Pro",
+      "type": "static",
+      "service_type": "PAYMENT"
+    },
+    "created_at": "2026-08-07T18:00:00Z"
+  },
+  {
+    "_id": "AUD070",
+    "status": "SUCCESS",
+    "amount": 2350.95,
+    "scheme": "gpay",
+    "machine_identifier": "MID-070",
+    "device": {
+      "prefix": "",
+      "serial_number": "42070",
+      "model": "ET700",
+      "type": "unknown",
+      "service_type": "PAYMENT"
+    },
+    "created_at": "2012-01-01T00:00:00Z"
+  },
+  
+  {
+    "_id": "AUD071",
+    "status": "SUCCESS",
+    "amount": 2950.75,
+    "scheme": "gpay",
+    "machine_identifier": "MID-071",
+    "device": {
+      "prefix": "IPNT",
+      "serial_number": "42071",
+      "model": "ET389Pro",
+      "type": "dynamic",
+      "service_type": "PAYMENT"
+    },
+    "created_at": "2026-08-08T10:00:00Z"
+  },
+  {
+    "_id": "AUD072",
+    "status": "PENDING",
+    "amount": 1320.45,
+    "scheme": "phonepe",
+    "machine_identifier": "MID-072",
+    "device": {
+      "prefix": "MD",
+      "serial_number": "42072",
+      "model": "ET390Lite",
+      "type": "static",
+      "service_type": "NOTIFY"
+    },
+    "created_at": "2026-08-08T11:00:00Z"
+  },
+  {
+    "_id": "AUD073",
+    "status": "FAILED",
+    "amount": 920.15,
+    "scheme": "paytm",
+    "machine_identifier": "MID-073",
+    "device": {
+      "prefix": "IPNT",
+      "serial_number": "42073",
+      "model": "ET389",
+      "type": "dynamic",
+      "service_type": "PAYMENT"
+    },
+    "created_at": "2026-08-08T12:00:00Z"
+  },
+  {
+    "_id": "AUD074",
+    "status": "SUCCESS",
+    "amount": 4250.95,
+    "scheme": "bhim",
+    "machine_identifier": "MID-074",
+    "device": {
+      "prefix": "MD",
+      "serial_number": "42074",
+      "model": "ET500",
+      "type": "static",
+      "service_type": "NOTIFY"
+    },
+    "created_at": "wrong-date"
+  },
+  {
+    "_id": "AUD075",
+    "status": "FIRED",
+    "amount": 1725.50,
+    "scheme": "fonepay",
+    "machine_identifier": "MID-075",
+    "device": {
+      "prefix": "IPNT",
+      "serial_number": null,
+      "model": "ET389Pro",
+      "type": "dynamic",
+      "service_type": "PAYMENT"
+    },
+    "created_at": "2026-08-08T14:00:00Z"
+  },
+  {
+    "_id": "AUD076",
+    "status": "SUCCESS",
+    "amount": null,
+    "scheme": "gpay",
+    "machine_identifier": "MID-076",
+    "device": {
+      "prefix": "MD",
+      "serial_number": "42076",
+      "model": "ET390Lite",
+      "type": "static",
+      "service_type": "PAYMENT"
+    },
+    "created_at": "2026-08-08T15:00:00Z"
+  },
+  {
+    "_id": "AUD077",
+    "status": "SUCCESS",
+    "amount": 2680.25,
+    "scheme": "phonepe",
+    "machine_identifier": "MID-077",
+    "device": {
+      "prefix": "IPNT",
+      "serial_number": "42077",
+      "model": "ET700",
+      "type": "dynamic",
+      "service_type": "PAYMENT"
+    },
+    "created_at": null
+  },
+  {
+    "_id": "AUD078",
+    "status": "FAILED",
+    "amount": 1210.40,
+    "scheme": "paytm",
+    "machine_identifier": "MID-078",
+    "device": {
+      "prefix": "MD",
+      "serial_number": "42078",
+      "model": "ET500",
+      "type": "static",
+      "service_type": "NOTIFY"
+    },
+    "created_at": "2026-08-08T17:00:00Z"
+  },
+  {
+    "_id": "AUD079",
+    "status": "PENDING",
+    "amount": "1260.85",
+    "scheme": "bhim",
+    "machine_identifier": "MID-079",
+    "device": {
+      "prefix": "IPNT",
+      "serial_number": "42079",
+      "model": null,
+      "type": "dynamic",
+      "service_type": "PAYMENT"
+    },
+    "created_at": "2026-08-08T18:00:00Z"
+  },
+  {
+    "_id": "AUD080",
+    "status": "SUCCESS",
+    "amount": 2450.65,
+    "scheme": "gpay",
+    "machine_identifier": "MID-080",
+    "device": {
+      "prefix": "MD",
+      "serial_number": "42080",
+      "model": "ET390Lite",
+      "type": "static",
+      "service_type": "PAYMENT"
+    },
+    "created_at": "2026-08-08T19:00:00Z"
+  },
+  
+  {
+    "_id": "AUD081",
+    "status": "SUCCESS",
+    "amount": 3050.95,
+    "scheme": "gpay",
+    "machine_identifier": "MID-081",
+    "device": {
+      "prefix": "IPNT",
+      "serial_number": "42081",
+      "model": "ET389Pro",
+      "type": "dynamic",
+      "service_type": "PAYMENT"
+    },
+    "created_at": "2026-08-09T10:00:00Z"
+  },
+  {
+    "_id": "AUD082",
+    "status": "PENDING",
+    "amount": 1380.20,
+    "scheme": "phonepe",
+    "machine_identifier": "MID-082",
+    "device": {
+      "prefix": "MD",
+      "serial_number": "42082",
+      "model": "ET390Lite",
+      "type": "static",
+      "service_type": "NOTIFY"
+    },
+    "created_at": "2026-08-09T11:00:00Z"
+  },
+  {
+    "_id": "AUD083",
+    "status": "FAILED",
+    "amount": 980.55,
+    "scheme": "paytm",
+    "machine_identifier": "MID-083",
+    "device": {
+      "prefix": "IPNT",
+      "serial_number": "42083",
+      "model": "ET389",
+      "type": "dynamic",
+      "service_type": "PAYMENT"
+    },
+    "created_at": "2026-08-09T12:00:00Z"
+  },
+  {
+    "_id": "AUD084",
+    "status": "SUCCESS",
+    "amount": 4450.35,
+    "scheme": "bhim",
+    "machine_identifier": "MID-084",
+    "device": {
+      "prefix": "MD",
+      "serial_number": "42084",
+      "model": "ET500",
+      "type": "static",
+      "service_type": "NOTIFY"
+    },
+    "created_at": "invalid-date"
+  },
+  {
+    "_id": "AUD085",
+    "status": "FIRED",
+    "amount": 1820.40,
+    "scheme": "fonepay",
+    "machine_identifier": "MID-085",
+    "device": {
+      "prefix": "IPNT",
+      "serial_number": null,
+      "model": "ET389Pro",
+      "type": "dynamic",
+      "service_type": "PAYMENT"
+    },
+    "created_at": "2026-08-09T14:00:00Z"
+  },
+  {
+    "_id": "AUD086",
+    "status": "SUCCESS",
+    "amount": null,
+    "scheme": "gpay",
+    "machine_identifier": "MID-086",
+    "device": {
+      "prefix": "MD",
+      "serial_number": "42086",
+      "model": "ET390Lite",
+      "type": "static",
+      "service_type": "PAYMENT"
+    },
+    "created_at": "2026-08-09T15:00:00Z"
+  },
+  {
+    "_id": "AUD087",
+    "status": "SUCCESS",
+    "amount": 2780.80,
+    "scheme": "phonepe",
+    "machine_identifier": "MID-087",
+    "device": {
+      "prefix": "IPNT",
+      "serial_number": "42087",
+      "model": "ET700",
+      "type": "dynamic",
+      "service_type": "PAYMENT"
+    },
+    "created_at": null
+  },
+  {
+    "_id": "AUD088",
+    "status": "FAILED",
+    "amount": 1290.65,
+    "scheme": "paytm",
+    "machine_identifier": "MID-088",
+    "device": {
+      "prefix": "MD",
+      "serial_number": "42088",
+      "model": "ET500",
+      "type": "static",
+      "service_type": "NOTIFY"
+    },
+    "created_at": "2026-08-09T17:00:00Z"
+  },
+  {
+    "_id": "AUD089",
+    "status": "PENDING",
+    "amount": "1350.45",
+    "scheme": "bhim",
+    "machine_identifier": "MID-089",
+    "device": {
+      "prefix": "IPNT",
+      "serial_number": "42089",
+      "model": null,
+      "type": "dynamic",
+      "service_type": "PAYMENT"
+    },
+    "created_at": "2026-08-09T18:00:00Z"
+  },
+  {
+    "_id": "AUD090",
+    "status": "SUCCESS",
+    "amount": 2550.25,
+    "scheme": "gpay",
+    "machine_identifier": "MID-090",
+    "device": {
+      "prefix": "MD",
+      "serial_number": "42090",
+      "model": "ET390Lite",
+      "type": "static",
+      "service_type": "PAYMENT"
+    },
+    "created_at": "2026-08-09T19:00:00Z"
+  },
+  
+  {
+    "_id": "AUD091",
+    "status": "SUCCESS",
+    "amount": 3150.55,
+    "scheme": "gpay",
+    "machine_identifier": "MID-091",
+    "device": {
+      "prefix": "IPNT",
+      "serial_number": "42091",
+      "model": "ET389Pro",
+      "type": "dynamic",
+      "service_type": "PAYMENT"
+    },
+    "created_at": "2026-08-10T10:00:00Z"
+  },
+  {
+    "_id": "AUD092",
+    "status": "PENDING",
+    "amount": 1450.30,
+    "scheme": "phonepe",
+    "machine_identifier": "MID-092",
+    "device": {
+      "prefix": "MD",
+      "serial_number": "42092",
+      "model": "ET390Lite",
+      "type": "static",
+      "service_type": "NOTIFY"
+    },
+    "created_at": "2026-08-10T11:00:00Z"
+  },
+  {
+    "_id": "AUD093",
+    "status": "FAILED",
+    "amount": 1050.75,
+    "scheme": "paytm",
+    "machine_identifier": "MID-093",
+    "device": {
+      "prefix": "IPNT",
+      "serial_number": "42093",
+      "model": "ET389",
+      "type": "dynamic",
+      "service_type": "PAYMENT"
+    },
+    "created_at": "2026-08-10T12:00:00Z"
+  },
+  {
+    "_id": "AUD094",
+    "status": "SUCCESS",
+    "amount": 4650.95,
+    "scheme": "bhim",
+    "machine_identifier": "MID-094",
+    "device": {
+      "prefix": "MD",
+      "serial_number": "42094",
+      "model": "ET500",
+      "type": "static",
+      "service_type": "NOTIFY"
+    },
+    "created_at": "wrong-date"
+  },
+  {
+    "_id": "AUD095",
+    "status": "FIRED",
+    "amount": 1925.60,
+    "scheme": "fonepay",
+    "machine_identifier": "MID-095",
+    "device": {
+      "prefix": "IPNT",
+      "serial_number": null,
+      "model": "ET389Pro",
+      "type": "dynamic",
+      "service_type": "PAYMENT"
+    },
+    "created_at": "2026-08-10T14:00:00Z"
+  },
+  {
+    "_id": "AUD096",
+    "status": "SUCCESS",
+    "amount": null,
+    "scheme": "gpay",
+    "machine_identifier": "MID-096",
+    "device": {
+      "prefix": "MD",
+      "serial_number": "42096",
+      "model": "ET390Lite",
+      "type": "static",
+      "service_type": "PAYMENT"
+    },
+    "created_at": "2026-08-10T15:00:00Z"
+  },
+  {
+    "_id": "AUD097",
+    "status": "SUCCESS",
+    "amount": 2880.45,
+    "scheme": "phonepe",
+    "machine_identifier": "MID-097",
+    "device": {
+      "prefix": "IPNT",
+      "serial_number": "42097",
+      "model": "ET700",
+      "type": "dynamic",
+      "service_type": "PAYMENT"
+    },
+    "created_at": null
+  },
+  {
+    "_id": "AUD098",
+    "status": "FAILED",
+    "amount": 1380.80,
+    "scheme": "paytm",
+    "machine_identifier": "MID-098",
+    "device": {
+      "prefix": "MD",
+      "serial_number": "42098",
+      "model": "ET500",
+      "type": "static",
+      "service_type": "NOTIFY"
+    },
+    "created_at": "2026-08-10T17:00:00Z"
+  },
+  {
+    "_id": "AUD099",
+    "status": "PENDING",
+    "amount": "1420.25",
+    "scheme": "bhim",
+    "machine_identifier": "MID-099",
+    "device": {
+      "prefix": "IPNT",
+      "serial_number": "42099",
+      "model": null,
+      "type": "dynamic",
+      "service_type": "PAYMENT"
+    },
+    "created_at": "2026-08-10T18:00:00Z"
+  },
+  {
+    "_id": "AUD100",
+    "status": "SUCCESS",
+    "amount": 2650.90,
+    "scheme": "gpay",
+    "machine_identifier": "MID-100",
+    "device": {
+      "prefix": "MD",
+      "serial_number": "42100",
+      "model": "ET390Lite",
+      "type": "static",
+      "service_type": "PAYMENT"
+    },
+    "created_at": "2026-08-10T19:00:00Z"
+  }
+
+
+
+
+
+
+
+
+]

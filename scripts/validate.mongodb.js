@@ -202,16 +202,16 @@ use("Analysis");
 // ])
 
 // finding total no of transaction in which created at device is null
-db.mastertable.aggregate([
-    {
-        $match:{
-            created_at_device:null
-        }
-    },{
-        $group:{
-            _id:"$created_at_device",
-            total_transaction:{$sum:1}
-        }
-    }
-])
+// db.mastertable.aggregate([
+//     {
+//         $match:{
+//             created_at_device:null
+//         }
+//     },{
+//         $group:{
+//             _id:"$created_at_device",
+//             total_transaction:{$sum:1}
+//         }
+//     }
+// ])
 

@@ -1,8 +1,24 @@
 import pandas as pd
+import logging
+
+# =====================================================
+# LOGGING CONFIGURATION
+# =====================================================
+
+logging.basicConfig(
+    filename="logs/pipeline.log",
+    level=logging.INFO,
+    format="%(asctime)s %(levelname)s %(message)s"
+)
+
+logging.info("ETL PIPELINE STARTED")
+
 
 # -----------------------------
 # EXTRACT DEVICE REGISTRY
 # -----------------------------
+
+logging.info("Loading Device Registry Data")
 
 device_df = pd.read_json(
     "data/mongo_source/device_registry.json"
@@ -47,10 +63,14 @@ print("\nDEVICE REGISTRY")
 print("Shape :", device_df.shape)
 print(device_df.head())
 
+logging.info("Device Registry Loaded Successfully")
+
 
 # -----------------------------
 # EXTRACT REGISTRY AUDIT
 # -----------------------------
+
+logging.info("Loading Registry Audit Data")
 
 audit_df = pd.read_json(
     "data/audit_source/registry_audit.json"
@@ -76,6 +96,8 @@ print("\nREGISTRY AUDIT")
 print("Shape :", audit_df.shape)
 print(audit_df.head())
 
+logging.info("Registry Audit Loaded Successfully")
+
 
 # -----------------------------
 # VALIDATION
@@ -98,6 +120,7 @@ print(
 print("\nDatatypes:")
 print(device_df.dtypes)
 
+logging.info("Device Registry Validation Completed")
 
 
 print("\n==============================")
@@ -117,10 +140,14 @@ print(
 print("\nDatatypes:")
 print(audit_df.dtypes)
 
+logging.info("Registry Audit Validation Completed")
+
 
 # -----------------------------
 # CLEANING
 # -----------------------------
+
+logging.info("Cleaning Started")
 
 # Remove duplicate records
 
@@ -149,6 +176,9 @@ device_df["serial_number"] = (
     .fillna(0)
 )
 
+logging.info("Cleaning Completed")
+
+
 # -----------------------------
 # SAVE CLEANED FILES
 # -----------------------------
@@ -165,10 +195,14 @@ audit_df.to_csv(
 
 print("\nCleaned files saved successfully")
 
+logging.info("Cleaned Files Saved Successfully")
+
 
 # -----------------------------
 # MASTER TABLE CREATION
 # -----------------------------
+
+logging.info("Master Table Creation Started")
 
 master_df = audit_df.merge(
     device_df,
@@ -187,6 +221,8 @@ print("\nMASTER TABLE")
 print("Shape :", master_df.shape)
 print(master_df.head())
 
+logging.info("Master Table Created Successfully")
+
 
 # -----------------------------
 # SAVE MASTER TABLE
@@ -203,4 +239,9 @@ master_df.to_json(
     indent=4,
     date_format="iso"
 )
+
 print("\nMaster table saved successfully")
+
+logging.info("Master Table Saved Successfully")
+
+logging.info("ETL PIPELINE COMPLETED")
